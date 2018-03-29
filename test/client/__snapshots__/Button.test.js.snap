@@ -1,0 +1,1156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component 測試 about Constructure snapshot: 1`] = `
+VueWrapper {
+  "_emitted": Object {},
+  "_emittedByOrder": Array [],
+  "element": <div
+    id="app"
+  >
+    <button
+      class="style-button"
+    >
+      按鈕
+    </button>
+  </div>,
+  "isVueComponent": true,
+  "options": Object {
+    "attachedToDocument": false,
+  },
+  "update": [Function],
+  "version": 2.5,
+  "vm": VueComponent {
+    "$_mountingOptionsSlots": undefined,
+    "$_originalSlots": Object {},
+    "$attrs": Object {},
+    "$children": Array [],
+    "$createElement": [Function],
+    "$el": <div
+      id="app"
+    >
+      <button
+        class="style-button"
+      >
+        按鈕
+      </button>
+    </div>,
+    "$emit": [Function],
+    "$listeners": Object {},
+    "$options": Object {
+      "_Ctor": Object {
+        "1": [Function],
+      },
+      "_base": [Function],
+      "_parentElm": null,
+      "_propKeys": Array [
+        "buttonValue",
+      ],
+      "_refElm": null,
+      "beforeCreate": Array [
+        [Function],
+      ],
+      "components": Object {
+        "transition": Object {
+          "render": [Function],
+        },
+        "transition-group": Object {
+          "render": [Function],
+        },
+      },
+      "directives": Object {},
+      "filters": Object {},
+      "methods": Object {
+        "linkToOtherPage": [Function],
+      },
+      "name": "button",
+      "props": Object {
+        "buttonValue": Object {
+          "default": "按鈕",
+          "type": [Function],
+        },
+      },
+      "render": [Function],
+      "staticRenderFns": Array [],
+    },
+    "$parent": undefined,
+    "$refs": Object {},
+    "$root": [Circular],
+    "$scopedSlots": Object {},
+    "$slots": Object {},
+    "$vnode": undefined,
+    "__emitted": Object {},
+    "__emittedByOrder": Array [],
+    "_c": [Function],
+    "_data": Object {},
+    "_directInactive": false,
+    "_events": Object {},
+    "_hasHookEvent": false,
+    "_inactive": null,
+    "_isBeingDestroyed": false,
+    "_isDestroyed": false,
+    "_isMounted": true,
+    "_isVue": true,
+    "_props": Object {
+      "buttonValue": "按鈕",
+    },
+    "_renderProxy": VueComponent {
+      "$_mountingOptionsSlots": undefined,
+      "$_originalSlots": Object {},
+      "$attrs": Object {},
+      "$children": Array [],
+      "$createElement": [Function],
+      "$el": <div
+        id="app"
+      >
+        <button
+          class="style-button"
+        >
+          按鈕
+        </button>
+      </div>,
+      "$emit": [Function],
+      "$listeners": Object {},
+      "$options": Object {
+        "_Ctor": Object {
+          "1": [Function],
+        },
+        "_base": [Function],
+        "_parentElm": null,
+        "_propKeys": Array [
+          "buttonValue",
+        ],
+        "_refElm": null,
+        "beforeCreate": Array [
+          [Function],
+        ],
+        "components": Object {
+          "transition": Object {
+            "render": [Function],
+          },
+          "transition-group": Object {
+            "render": [Function],
+          },
+        },
+        "directives": Object {},
+        "filters": Object {},
+        "methods": Object {
+          "linkToOtherPage": [Function],
+        },
+        "name": "button",
+        "props": Object {
+          "buttonValue": Object {
+            "default": "按鈕",
+            "type": [Function],
+          },
+        },
+        "render": [Function],
+        "staticRenderFns": Array [],
+      },
+      "$parent": undefined,
+      "$refs": Object {},
+      "$root": [Circular],
+      "$scopedSlots": Object {},
+      "$slots": Object {},
+      "$vnode": undefined,
+      "__emitted": Object {},
+      "__emittedByOrder": Array [],
+      "_c": [Function],
+      "_data": Object {},
+      "_directInactive": false,
+      "_events": Object {},
+      "_hasHookEvent": false,
+      "_inactive": null,
+      "_isBeingDestroyed": false,
+      "_isDestroyed": false,
+      "_isMounted": true,
+      "_isVue": true,
+      "_props": Object {
+        "buttonValue": "按鈕",
+      },
+      "_renderProxy": [Circular],
+      "_self": [Circular],
+      "_staticTrees": null,
+      "_uid": 0,
+      "_vnode": VNode {
+        "asyncFactory": undefined,
+        "asyncMeta": undefined,
+        "children": Array [
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": Array [
+              VNode {
+                "asyncFactory": undefined,
+                "asyncMeta": undefined,
+                "children": undefined,
+                "componentInstance": undefined,
+                "componentOptions": undefined,
+                "context": undefined,
+                "data": undefined,
+                "elm": 按鈕,
+                "fnContext": undefined,
+                "fnOptions": undefined,
+                "fnScopeId": undefined,
+                "isAsyncPlaceholder": false,
+                "isCloned": false,
+                "isComment": false,
+                "isOnce": false,
+                "isRootInsert": false,
+                "isStatic": false,
+                "key": undefined,
+                "ns": undefined,
+                "parent": undefined,
+                "raw": false,
+                "tag": undefined,
+                "text": "按鈕",
+              },
+            ],
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": [Circular],
+            "data": Object {
+              "on": Object {
+                "click": [Function],
+              },
+              "staticClass": "style-button",
+            },
+            "elm": <button
+              class="style-button"
+            >
+              按鈕
+            </button>,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": "button",
+            "text": undefined,
+          },
+        ],
+        "componentInstance": undefined,
+        "componentOptions": undefined,
+        "context": [Circular],
+        "data": Object {
+          "attrs": Object {
+            "id": "app",
+          },
+        },
+        "elm": <div
+          id="app"
+        >
+          <button
+            class="style-button"
+          >
+            按鈕
+          </button>
+        </div>,
+        "fnContext": undefined,
+        "fnOptions": undefined,
+        "fnScopeId": undefined,
+        "isAsyncPlaceholder": false,
+        "isCloned": false,
+        "isComment": false,
+        "isOnce": false,
+        "isRootInsert": true,
+        "isStatic": false,
+        "key": undefined,
+        "ns": undefined,
+        "parent": undefined,
+        "raw": false,
+        "tag": "div",
+        "text": undefined,
+      },
+      "_watcher": Watcher {
+        "active": true,
+        "cb": [Function],
+        "deep": false,
+        "depIds": Set {
+          2,
+        },
+        "deps": Array [
+          Dep {
+            "id": 2,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+        ],
+        "dirty": false,
+        "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+        "getter": [Function],
+        "id": 1,
+        "lazy": false,
+        "newDepIds": Set {},
+        "newDeps": Array [],
+        "sync": false,
+        "user": false,
+        "value": undefined,
+        "vm": [Circular],
+      },
+      "_watchers": Array [
+        Watcher {
+          "active": true,
+          "cb": [Function],
+          "deep": false,
+          "depIds": Set {
+            2,
+          },
+          "deps": Array [
+            Dep {
+              "id": 2,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+          ],
+          "dirty": false,
+          "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+          "getter": [Function],
+          "id": 1,
+          "lazy": false,
+          "newDepIds": Set {},
+          "newDeps": Array [],
+          "sync": false,
+          "user": false,
+          "value": undefined,
+          "vm": [Circular],
+        },
+      ],
+      "linkToOtherPage": [Function],
+    },
+    "_self": [Circular],
+    "_staticTrees": null,
+    "_uid": 0,
+    "_vnode": VNode {
+      "asyncFactory": undefined,
+      "asyncMeta": undefined,
+      "children": Array [
+        VNode {
+          "asyncFactory": undefined,
+          "asyncMeta": undefined,
+          "children": Array [
+            VNode {
+              "asyncFactory": undefined,
+              "asyncMeta": undefined,
+              "children": undefined,
+              "componentInstance": undefined,
+              "componentOptions": undefined,
+              "context": undefined,
+              "data": undefined,
+              "elm": 按鈕,
+              "fnContext": undefined,
+              "fnOptions": undefined,
+              "fnScopeId": undefined,
+              "isAsyncPlaceholder": false,
+              "isCloned": false,
+              "isComment": false,
+              "isOnce": false,
+              "isRootInsert": false,
+              "isStatic": false,
+              "key": undefined,
+              "ns": undefined,
+              "parent": undefined,
+              "raw": false,
+              "tag": undefined,
+              "text": "按鈕",
+            },
+          ],
+          "componentInstance": undefined,
+          "componentOptions": undefined,
+          "context": [Circular],
+          "data": Object {
+            "on": Object {
+              "click": [Function],
+            },
+            "staticClass": "style-button",
+          },
+          "elm": <button
+            class="style-button"
+          >
+            按鈕
+          </button>,
+          "fnContext": undefined,
+          "fnOptions": undefined,
+          "fnScopeId": undefined,
+          "isAsyncPlaceholder": false,
+          "isCloned": false,
+          "isComment": false,
+          "isOnce": false,
+          "isRootInsert": false,
+          "isStatic": false,
+          "key": undefined,
+          "ns": undefined,
+          "parent": undefined,
+          "raw": false,
+          "tag": "button",
+          "text": undefined,
+        },
+      ],
+      "componentInstance": undefined,
+      "componentOptions": undefined,
+      "context": [Circular],
+      "data": Object {
+        "attrs": Object {
+          "id": "app",
+        },
+      },
+      "elm": <div
+        id="app"
+      >
+        <button
+          class="style-button"
+        >
+          按鈕
+        </button>
+      </div>,
+      "fnContext": undefined,
+      "fnOptions": undefined,
+      "fnScopeId": undefined,
+      "isAsyncPlaceholder": false,
+      "isCloned": false,
+      "isComment": false,
+      "isOnce": false,
+      "isRootInsert": true,
+      "isStatic": false,
+      "key": undefined,
+      "ns": undefined,
+      "parent": undefined,
+      "raw": false,
+      "tag": "div",
+      "text": undefined,
+    },
+    "_watcher": Watcher {
+      "active": true,
+      "cb": [Function],
+      "deep": false,
+      "depIds": Set {
+        2,
+      },
+      "deps": Array [
+        Dep {
+          "id": 2,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+      ],
+      "dirty": false,
+      "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+      "getter": [Function],
+      "id": 1,
+      "lazy": false,
+      "newDepIds": Set {},
+      "newDeps": Array [],
+      "sync": false,
+      "user": false,
+      "value": undefined,
+      "vm": [Circular],
+    },
+    "_watchers": Array [
+      Watcher {
+        "active": true,
+        "cb": [Function],
+        "deep": false,
+        "depIds": Set {
+          2,
+        },
+        "deps": Array [
+          Dep {
+            "id": 2,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+        ],
+        "dirty": false,
+        "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+        "getter": [Function],
+        "id": 1,
+        "lazy": false,
+        "newDepIds": Set {},
+        "newDeps": Array [],
+        "sync": false,
+        "user": false,
+        "value": undefined,
+        "vm": [Circular],
+      },
+    ],
+    "linkToOtherPage": [Function],
+  },
+  "vnode": VNode {
+    "asyncFactory": undefined,
+    "asyncMeta": undefined,
+    "children": Array [
+      VNode {
+        "asyncFactory": undefined,
+        "asyncMeta": undefined,
+        "children": Array [
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": undefined,
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": undefined,
+            "data": undefined,
+            "elm": 按鈕,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": undefined,
+            "text": "按鈕",
+          },
+        ],
+        "componentInstance": undefined,
+        "componentOptions": undefined,
+        "context": VueComponent {
+          "$_mountingOptionsSlots": undefined,
+          "$_originalSlots": Object {},
+          "$attrs": Object {},
+          "$children": Array [],
+          "$createElement": [Function],
+          "$el": <div
+            id="app"
+          >
+            <button
+              class="style-button"
+            >
+              按鈕
+            </button>
+          </div>,
+          "$emit": [Function],
+          "$listeners": Object {},
+          "$options": Object {
+            "_Ctor": Object {
+              "1": [Function],
+            },
+            "_base": [Function],
+            "_parentElm": null,
+            "_propKeys": Array [
+              "buttonValue",
+            ],
+            "_refElm": null,
+            "beforeCreate": Array [
+              [Function],
+            ],
+            "components": Object {
+              "transition": Object {
+                "render": [Function],
+              },
+              "transition-group": Object {
+                "render": [Function],
+              },
+            },
+            "directives": Object {},
+            "filters": Object {},
+            "methods": Object {
+              "linkToOtherPage": [Function],
+            },
+            "name": "button",
+            "props": Object {
+              "buttonValue": Object {
+                "default": "按鈕",
+                "type": [Function],
+              },
+            },
+            "render": [Function],
+            "staticRenderFns": Array [],
+          },
+          "$parent": undefined,
+          "$refs": Object {},
+          "$root": [Circular],
+          "$scopedSlots": Object {},
+          "$slots": Object {},
+          "$vnode": undefined,
+          "__emitted": Object {},
+          "__emittedByOrder": Array [],
+          "_c": [Function],
+          "_data": Object {},
+          "_directInactive": false,
+          "_events": Object {},
+          "_hasHookEvent": false,
+          "_inactive": null,
+          "_isBeingDestroyed": false,
+          "_isDestroyed": false,
+          "_isMounted": true,
+          "_isVue": true,
+          "_props": Object {
+            "buttonValue": "按鈕",
+          },
+          "_renderProxy": VueComponent {
+            "$_mountingOptionsSlots": undefined,
+            "$_originalSlots": Object {},
+            "$attrs": Object {},
+            "$children": Array [],
+            "$createElement": [Function],
+            "$el": <div
+              id="app"
+            >
+              <button
+                class="style-button"
+              >
+                按鈕
+              </button>
+            </div>,
+            "$emit": [Function],
+            "$listeners": Object {},
+            "$options": Object {
+              "_Ctor": Object {
+                "1": [Function],
+              },
+              "_base": [Function],
+              "_parentElm": null,
+              "_propKeys": Array [
+                "buttonValue",
+              ],
+              "_refElm": null,
+              "beforeCreate": Array [
+                [Function],
+              ],
+              "components": Object {
+                "transition": Object {
+                  "render": [Function],
+                },
+                "transition-group": Object {
+                  "render": [Function],
+                },
+              },
+              "directives": Object {},
+              "filters": Object {},
+              "methods": Object {
+                "linkToOtherPage": [Function],
+              },
+              "name": "button",
+              "props": Object {
+                "buttonValue": Object {
+                  "default": "按鈕",
+                  "type": [Function],
+                },
+              },
+              "render": [Function],
+              "staticRenderFns": Array [],
+            },
+            "$parent": undefined,
+            "$refs": Object {},
+            "$root": [Circular],
+            "$scopedSlots": Object {},
+            "$slots": Object {},
+            "$vnode": undefined,
+            "__emitted": Object {},
+            "__emittedByOrder": Array [],
+            "_c": [Function],
+            "_data": Object {},
+            "_directInactive": false,
+            "_events": Object {},
+            "_hasHookEvent": false,
+            "_inactive": null,
+            "_isBeingDestroyed": false,
+            "_isDestroyed": false,
+            "_isMounted": true,
+            "_isVue": true,
+            "_props": Object {
+              "buttonValue": "按鈕",
+            },
+            "_renderProxy": [Circular],
+            "_self": [Circular],
+            "_staticTrees": null,
+            "_uid": 0,
+            "_vnode": [Circular],
+            "_watcher": Watcher {
+              "active": true,
+              "cb": [Function],
+              "deep": false,
+              "depIds": Set {
+                2,
+              },
+              "deps": Array [
+                Dep {
+                  "id": 2,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+              ],
+              "dirty": false,
+              "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+              "getter": [Function],
+              "id": 1,
+              "lazy": false,
+              "newDepIds": Set {},
+              "newDeps": Array [],
+              "sync": false,
+              "user": false,
+              "value": undefined,
+              "vm": [Circular],
+            },
+            "_watchers": Array [
+              Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  2,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 2,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                "getter": [Function],
+                "id": 1,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": false,
+                "value": undefined,
+                "vm": [Circular],
+              },
+            ],
+            "linkToOtherPage": [Function],
+          },
+          "_self": [Circular],
+          "_staticTrees": null,
+          "_uid": 0,
+          "_vnode": [Circular],
+          "_watcher": Watcher {
+            "active": true,
+            "cb": [Function],
+            "deep": false,
+            "depIds": Set {
+              2,
+            },
+            "deps": Array [
+              Dep {
+                "id": 2,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+            ],
+            "dirty": false,
+            "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+            "getter": [Function],
+            "id": 1,
+            "lazy": false,
+            "newDepIds": Set {},
+            "newDeps": Array [],
+            "sync": false,
+            "user": false,
+            "value": undefined,
+            "vm": [Circular],
+          },
+          "_watchers": Array [
+            Watcher {
+              "active": true,
+              "cb": [Function],
+              "deep": false,
+              "depIds": Set {
+                2,
+              },
+              "deps": Array [
+                Dep {
+                  "id": 2,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+              ],
+              "dirty": false,
+              "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+              "getter": [Function],
+              "id": 1,
+              "lazy": false,
+              "newDepIds": Set {},
+              "newDeps": Array [],
+              "sync": false,
+              "user": false,
+              "value": undefined,
+              "vm": [Circular],
+            },
+          ],
+          "linkToOtherPage": [Function],
+        },
+        "data": Object {
+          "on": Object {
+            "click": [Function],
+          },
+          "staticClass": "style-button",
+        },
+        "elm": <button
+          class="style-button"
+        >
+          按鈕
+        </button>,
+        "fnContext": undefined,
+        "fnOptions": undefined,
+        "fnScopeId": undefined,
+        "isAsyncPlaceholder": false,
+        "isCloned": false,
+        "isComment": false,
+        "isOnce": false,
+        "isRootInsert": false,
+        "isStatic": false,
+        "key": undefined,
+        "ns": undefined,
+        "parent": undefined,
+        "raw": false,
+        "tag": "button",
+        "text": undefined,
+      },
+    ],
+    "componentInstance": undefined,
+    "componentOptions": undefined,
+    "context": VueComponent {
+      "$_mountingOptionsSlots": undefined,
+      "$_originalSlots": Object {},
+      "$attrs": Object {},
+      "$children": Array [],
+      "$createElement": [Function],
+      "$el": <div
+        id="app"
+      >
+        <button
+          class="style-button"
+        >
+          按鈕
+        </button>
+      </div>,
+      "$emit": [Function],
+      "$listeners": Object {},
+      "$options": Object {
+        "_Ctor": Object {
+          "1": [Function],
+        },
+        "_base": [Function],
+        "_parentElm": null,
+        "_propKeys": Array [
+          "buttonValue",
+        ],
+        "_refElm": null,
+        "beforeCreate": Array [
+          [Function],
+        ],
+        "components": Object {
+          "transition": Object {
+            "render": [Function],
+          },
+          "transition-group": Object {
+            "render": [Function],
+          },
+        },
+        "directives": Object {},
+        "filters": Object {},
+        "methods": Object {
+          "linkToOtherPage": [Function],
+        },
+        "name": "button",
+        "props": Object {
+          "buttonValue": Object {
+            "default": "按鈕",
+            "type": [Function],
+          },
+        },
+        "render": [Function],
+        "staticRenderFns": Array [],
+      },
+      "$parent": undefined,
+      "$refs": Object {},
+      "$root": [Circular],
+      "$scopedSlots": Object {},
+      "$slots": Object {},
+      "$vnode": undefined,
+      "__emitted": Object {},
+      "__emittedByOrder": Array [],
+      "_c": [Function],
+      "_data": Object {},
+      "_directInactive": false,
+      "_events": Object {},
+      "_hasHookEvent": false,
+      "_inactive": null,
+      "_isBeingDestroyed": false,
+      "_isDestroyed": false,
+      "_isMounted": true,
+      "_isVue": true,
+      "_props": Object {
+        "buttonValue": "按鈕",
+      },
+      "_renderProxy": VueComponent {
+        "$_mountingOptionsSlots": undefined,
+        "$_originalSlots": Object {},
+        "$attrs": Object {},
+        "$children": Array [],
+        "$createElement": [Function],
+        "$el": <div
+          id="app"
+        >
+          <button
+            class="style-button"
+          >
+            按鈕
+          </button>
+        </div>,
+        "$emit": [Function],
+        "$listeners": Object {},
+        "$options": Object {
+          "_Ctor": Object {
+            "1": [Function],
+          },
+          "_base": [Function],
+          "_parentElm": null,
+          "_propKeys": Array [
+            "buttonValue",
+          ],
+          "_refElm": null,
+          "beforeCreate": Array [
+            [Function],
+          ],
+          "components": Object {
+            "transition": Object {
+              "render": [Function],
+            },
+            "transition-group": Object {
+              "render": [Function],
+            },
+          },
+          "directives": Object {},
+          "filters": Object {},
+          "methods": Object {
+            "linkToOtherPage": [Function],
+          },
+          "name": "button",
+          "props": Object {
+            "buttonValue": Object {
+              "default": "按鈕",
+              "type": [Function],
+            },
+          },
+          "render": [Function],
+          "staticRenderFns": Array [],
+        },
+        "$parent": undefined,
+        "$refs": Object {},
+        "$root": [Circular],
+        "$scopedSlots": Object {},
+        "$slots": Object {},
+        "$vnode": undefined,
+        "__emitted": Object {},
+        "__emittedByOrder": Array [],
+        "_c": [Function],
+        "_data": Object {},
+        "_directInactive": false,
+        "_events": Object {},
+        "_hasHookEvent": false,
+        "_inactive": null,
+        "_isBeingDestroyed": false,
+        "_isDestroyed": false,
+        "_isMounted": true,
+        "_isVue": true,
+        "_props": Object {
+          "buttonValue": "按鈕",
+        },
+        "_renderProxy": [Circular],
+        "_self": [Circular],
+        "_staticTrees": null,
+        "_uid": 0,
+        "_vnode": [Circular],
+        "_watcher": Watcher {
+          "active": true,
+          "cb": [Function],
+          "deep": false,
+          "depIds": Set {
+            2,
+          },
+          "deps": Array [
+            Dep {
+              "id": 2,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+          ],
+          "dirty": false,
+          "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+          "getter": [Function],
+          "id": 1,
+          "lazy": false,
+          "newDepIds": Set {},
+          "newDeps": Array [],
+          "sync": false,
+          "user": false,
+          "value": undefined,
+          "vm": [Circular],
+        },
+        "_watchers": Array [
+          Watcher {
+            "active": true,
+            "cb": [Function],
+            "deep": false,
+            "depIds": Set {
+              2,
+            },
+            "deps": Array [
+              Dep {
+                "id": 2,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+            ],
+            "dirty": false,
+            "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+            "getter": [Function],
+            "id": 1,
+            "lazy": false,
+            "newDepIds": Set {},
+            "newDeps": Array [],
+            "sync": false,
+            "user": false,
+            "value": undefined,
+            "vm": [Circular],
+          },
+        ],
+        "linkToOtherPage": [Function],
+      },
+      "_self": [Circular],
+      "_staticTrees": null,
+      "_uid": 0,
+      "_vnode": [Circular],
+      "_watcher": Watcher {
+        "active": true,
+        "cb": [Function],
+        "deep": false,
+        "depIds": Set {
+          2,
+        },
+        "deps": Array [
+          Dep {
+            "id": 2,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+        ],
+        "dirty": false,
+        "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+        "getter": [Function],
+        "id": 1,
+        "lazy": false,
+        "newDepIds": Set {},
+        "newDeps": Array [],
+        "sync": false,
+        "user": false,
+        "value": undefined,
+        "vm": [Circular],
+      },
+      "_watchers": Array [
+        Watcher {
+          "active": true,
+          "cb": [Function],
+          "deep": false,
+          "depIds": Set {
+            2,
+          },
+          "deps": Array [
+            Dep {
+              "id": 2,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+          ],
+          "dirty": false,
+          "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+          "getter": [Function],
+          "id": 1,
+          "lazy": false,
+          "newDepIds": Set {},
+          "newDeps": Array [],
+          "sync": false,
+          "user": false,
+          "value": undefined,
+          "vm": [Circular],
+        },
+      ],
+      "linkToOtherPage": [Function],
+    },
+    "data": Object {
+      "attrs": Object {
+        "id": "app",
+      },
+    },
+    "elm": <div
+      id="app"
+    >
+      <button
+        class="style-button"
+      >
+        按鈕
+      </button>
+    </div>,
+    "fnContext": undefined,
+    "fnOptions": undefined,
+    "fnScopeId": undefined,
+    "isAsyncPlaceholder": false,
+    "isCloned": false,
+    "isComment": false,
+    "isOnce": false,
+    "isRootInsert": true,
+    "isStatic": false,
+    "key": undefined,
+    "ns": undefined,
+    "parent": undefined,
+    "raw": false,
+    "tag": "div",
+    "text": undefined,
+  },
+}
+`;

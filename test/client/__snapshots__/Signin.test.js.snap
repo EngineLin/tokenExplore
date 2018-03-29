@@ -1,0 +1,6296 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Signin Component 測試 about Constructure snapshot: 1`] = `
+VueWrapper {
+  "_emitted": Object {},
+  "_emittedByOrder": Array [],
+  "element": <div
+    id="app"
+  >
+    <div
+      class="row"
+    >
+      <label>
+        帳號：
+      </label>
+      <input
+        id="input-account"
+        placeholder="請輸入假信箱..."
+        type="text"
+      />
+    </div>
+    <div
+      class="row"
+    >
+      <label>
+        密碼：
+      </label>
+      <input
+        id="input-password"
+        placeholder="請輸入假密碼..."
+        type="password"
+      />
+    </div>
+    <div
+      class="row"
+    >
+      <button
+        id="button-send"
+      >
+        按鈕
+      </button>
+    </div>
+  </div>,
+  "isVueComponent": true,
+  "options": Object {
+    "attachedToDocument": false,
+  },
+  "update": [Function],
+  "version": 2.5,
+  "vm": VueComponent {
+    "$_mountingOptionsSlots": undefined,
+    "$_originalSlots": Object {},
+    "$attrs": Object {},
+    "$children": Array [],
+    "$createElement": [Function],
+    "$el": <div
+      id="app"
+    >
+      <div
+        class="row"
+      >
+        <label>
+          帳號：
+        </label>
+        <input
+          id="input-account"
+          placeholder="請輸入假信箱..."
+          type="text"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <label>
+          密碼：
+        </label>
+        <input
+          id="input-password"
+          placeholder="請輸入假密碼..."
+          type="password"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <button
+          id="button-send"
+        >
+          按鈕
+        </button>
+      </div>
+    </div>,
+    "$emit": [Function],
+    "$listeners": Object {},
+    "$options": Object {
+      "_Ctor": Object {
+        "1": [Function],
+      },
+      "_base": [Function],
+      "_parentElm": null,
+      "_propKeys": Array [
+        "buttonValue",
+        "autoFakeAccount",
+      ],
+      "_refElm": null,
+      "beforeCreate": Array [
+        [Function],
+      ],
+      "components": Object {
+        "transition": Object {
+          "render": [Function],
+        },
+        "transition-group": Object {
+          "render": [Function],
+        },
+      },
+      "data": [Function],
+      "directives": Object {},
+      "filters": Object {},
+      "methods": Object {
+        "clickSendBtn": [Function],
+      },
+      "name": "Signin",
+      "props": Object {
+        "autoFakeAccount": Object {
+          "default": [Function],
+          "type": [Function],
+        },
+        "buttonValue": Object {
+          "default": "按鈕",
+          "type": [Function],
+        },
+      },
+      "render": [Function],
+      "staticRenderFns": Array [],
+      "watch": Object {},
+    },
+    "$parent": undefined,
+    "$refs": Object {},
+    "$root": [Circular],
+    "$scopedSlots": Object {},
+    "$slots": Object {},
+    "$vnode": undefined,
+    "__emitted": Object {},
+    "__emittedByOrder": Array [],
+    "_c": [Function],
+    "_data": Object {
+      "accountValue": "",
+      "passwordValue": "",
+    },
+    "_directInactive": false,
+    "_events": Object {},
+    "_hasHookEvent": false,
+    "_inactive": null,
+    "_isBeingDestroyed": false,
+    "_isDestroyed": false,
+    "_isMounted": true,
+    "_isVue": true,
+    "_props": Object {
+      "autoFakeAccount": Object {},
+      "buttonValue": "按鈕",
+    },
+    "_renderProxy": VueComponent {
+      "$_mountingOptionsSlots": undefined,
+      "$_originalSlots": Object {},
+      "$attrs": Object {},
+      "$children": Array [],
+      "$createElement": [Function],
+      "$el": <div
+        id="app"
+      >
+        <div
+          class="row"
+        >
+          <label>
+            帳號：
+          </label>
+          <input
+            id="input-account"
+            placeholder="請輸入假信箱..."
+            type="text"
+          />
+        </div>
+        <div
+          class="row"
+        >
+          <label>
+            密碼：
+          </label>
+          <input
+            id="input-password"
+            placeholder="請輸入假密碼..."
+            type="password"
+          />
+        </div>
+        <div
+          class="row"
+        >
+          <button
+            id="button-send"
+          >
+            按鈕
+          </button>
+        </div>
+      </div>,
+      "$emit": [Function],
+      "$listeners": Object {},
+      "$options": Object {
+        "_Ctor": Object {
+          "1": [Function],
+        },
+        "_base": [Function],
+        "_parentElm": null,
+        "_propKeys": Array [
+          "buttonValue",
+          "autoFakeAccount",
+        ],
+        "_refElm": null,
+        "beforeCreate": Array [
+          [Function],
+        ],
+        "components": Object {
+          "transition": Object {
+            "render": [Function],
+          },
+          "transition-group": Object {
+            "render": [Function],
+          },
+        },
+        "data": [Function],
+        "directives": Object {},
+        "filters": Object {},
+        "methods": Object {
+          "clickSendBtn": [Function],
+        },
+        "name": "Signin",
+        "props": Object {
+          "autoFakeAccount": Object {
+            "default": [Function],
+            "type": [Function],
+          },
+          "buttonValue": Object {
+            "default": "按鈕",
+            "type": [Function],
+          },
+        },
+        "render": [Function],
+        "staticRenderFns": Array [],
+        "watch": Object {},
+      },
+      "$parent": undefined,
+      "$refs": Object {},
+      "$root": [Circular],
+      "$scopedSlots": Object {},
+      "$slots": Object {},
+      "$vnode": undefined,
+      "__emitted": Object {},
+      "__emittedByOrder": Array [],
+      "_c": [Function],
+      "_data": Object {
+        "accountValue": "",
+        "passwordValue": "",
+      },
+      "_directInactive": false,
+      "_events": Object {},
+      "_hasHookEvent": false,
+      "_inactive": null,
+      "_isBeingDestroyed": false,
+      "_isDestroyed": false,
+      "_isMounted": true,
+      "_isVue": true,
+      "_props": Object {
+        "autoFakeAccount": Object {},
+        "buttonValue": "按鈕",
+      },
+      "_renderProxy": [Circular],
+      "_self": [Circular],
+      "_staticTrees": null,
+      "_uid": 0,
+      "_vnode": VNode {
+        "asyncFactory": undefined,
+        "asyncMeta": undefined,
+        "children": Array [
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": Array [
+              VNode {
+                "asyncFactory": undefined,
+                "asyncMeta": undefined,
+                "children": Array [
+                  VNode {
+                    "asyncFactory": undefined,
+                    "asyncMeta": undefined,
+                    "children": undefined,
+                    "componentInstance": undefined,
+                    "componentOptions": undefined,
+                    "context": undefined,
+                    "data": undefined,
+                    "elm": 帳號：,
+                    "fnContext": undefined,
+                    "fnOptions": undefined,
+                    "fnScopeId": undefined,
+                    "isAsyncPlaceholder": false,
+                    "isCloned": false,
+                    "isComment": false,
+                    "isOnce": false,
+                    "isRootInsert": false,
+                    "isStatic": false,
+                    "key": undefined,
+                    "ns": undefined,
+                    "parent": undefined,
+                    "raw": false,
+                    "tag": undefined,
+                    "text": "帳號：",
+                  },
+                ],
+                "componentInstance": undefined,
+                "componentOptions": undefined,
+                "context": [Circular],
+                "data": undefined,
+                "elm": <label>
+                  帳號：
+                </label>,
+                "fnContext": undefined,
+                "fnOptions": undefined,
+                "fnScopeId": undefined,
+                "isAsyncPlaceholder": false,
+                "isCloned": false,
+                "isComment": false,
+                "isOnce": false,
+                "isRootInsert": false,
+                "isStatic": false,
+                "key": undefined,
+                "ns": undefined,
+                "parent": undefined,
+                "raw": false,
+                "tag": "label",
+                "text": undefined,
+              },
+              VNode {
+                "asyncFactory": undefined,
+                "asyncMeta": undefined,
+                "children": undefined,
+                "componentInstance": undefined,
+                "componentOptions": undefined,
+                "context": [Circular],
+                "data": Object {
+                  "attrs": Object {
+                    "id": "input-account",
+                    "placeholder": "請輸入假信箱...",
+                    "type": "text",
+                  },
+                  "directives": Array [
+                    Object {
+                      "def": Object {
+                        "componentUpdated": [Function],
+                        "inserted": [Function],
+                      },
+                      "expression": "accountValue",
+                      "modifiers": Object {},
+                      "name": "model",
+                      "rawName": "v-model",
+                      "value": "",
+                    },
+                  ],
+                  "domProps": Object {
+                    "value": "",
+                  },
+                  "hook": Object {
+                    "insert": [Function],
+                  },
+                  "on": Object {
+                    "input": [Function],
+                  },
+                },
+                "elm": <input
+                  id="input-account"
+                  placeholder="請輸入假信箱..."
+                  type="text"
+                />,
+                "fnContext": undefined,
+                "fnOptions": undefined,
+                "fnScopeId": undefined,
+                "isAsyncPlaceholder": false,
+                "isCloned": false,
+                "isComment": false,
+                "isOnce": false,
+                "isRootInsert": false,
+                "isStatic": false,
+                "key": undefined,
+                "ns": undefined,
+                "parent": undefined,
+                "raw": false,
+                "tag": "input",
+                "text": undefined,
+              },
+            ],
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": [Circular],
+            "data": Object {
+              "staticClass": "row",
+            },
+            "elm": <div
+              class="row"
+            >
+              <label>
+                帳號：
+              </label>
+              <input
+                id="input-account"
+                placeholder="請輸入假信箱..."
+                type="text"
+              />
+            </div>,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": "div",
+            "text": undefined,
+          },
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": Array [
+              VNode {
+                "asyncFactory": undefined,
+                "asyncMeta": undefined,
+                "children": Array [
+                  VNode {
+                    "asyncFactory": undefined,
+                    "asyncMeta": undefined,
+                    "children": undefined,
+                    "componentInstance": undefined,
+                    "componentOptions": undefined,
+                    "context": undefined,
+                    "data": undefined,
+                    "elm": 密碼：,
+                    "fnContext": undefined,
+                    "fnOptions": undefined,
+                    "fnScopeId": undefined,
+                    "isAsyncPlaceholder": false,
+                    "isCloned": false,
+                    "isComment": false,
+                    "isOnce": false,
+                    "isRootInsert": false,
+                    "isStatic": false,
+                    "key": undefined,
+                    "ns": undefined,
+                    "parent": undefined,
+                    "raw": false,
+                    "tag": undefined,
+                    "text": "密碼：",
+                  },
+                ],
+                "componentInstance": undefined,
+                "componentOptions": undefined,
+                "context": [Circular],
+                "data": undefined,
+                "elm": <label>
+                  密碼：
+                </label>,
+                "fnContext": undefined,
+                "fnOptions": undefined,
+                "fnScopeId": undefined,
+                "isAsyncPlaceholder": false,
+                "isCloned": false,
+                "isComment": false,
+                "isOnce": false,
+                "isRootInsert": false,
+                "isStatic": false,
+                "key": undefined,
+                "ns": undefined,
+                "parent": undefined,
+                "raw": false,
+                "tag": "label",
+                "text": undefined,
+              },
+              VNode {
+                "asyncFactory": undefined,
+                "asyncMeta": undefined,
+                "children": undefined,
+                "componentInstance": undefined,
+                "componentOptions": undefined,
+                "context": [Circular],
+                "data": Object {
+                  "attrs": Object {
+                    "id": "input-password",
+                    "placeholder": "請輸入假密碼...",
+                    "type": "password",
+                  },
+                  "directives": Array [
+                    Object {
+                      "def": Object {
+                        "componentUpdated": [Function],
+                        "inserted": [Function],
+                      },
+                      "expression": "passwordValue",
+                      "modifiers": Object {},
+                      "name": "model",
+                      "rawName": "v-model",
+                      "value": "",
+                    },
+                  ],
+                  "domProps": Object {
+                    "value": "",
+                  },
+                  "hook": Object {
+                    "insert": [Function],
+                  },
+                  "on": Object {
+                    "input": [Function],
+                  },
+                },
+                "elm": <input
+                  id="input-password"
+                  placeholder="請輸入假密碼..."
+                  type="password"
+                />,
+                "fnContext": undefined,
+                "fnOptions": undefined,
+                "fnScopeId": undefined,
+                "isAsyncPlaceholder": false,
+                "isCloned": false,
+                "isComment": false,
+                "isOnce": false,
+                "isRootInsert": false,
+                "isStatic": false,
+                "key": undefined,
+                "ns": undefined,
+                "parent": undefined,
+                "raw": false,
+                "tag": "input",
+                "text": undefined,
+              },
+            ],
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": [Circular],
+            "data": Object {
+              "staticClass": "row",
+            },
+            "elm": <div
+              class="row"
+            >
+              <label>
+                密碼：
+              </label>
+              <input
+                id="input-password"
+                placeholder="請輸入假密碼..."
+                type="password"
+              />
+            </div>,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": "div",
+            "text": undefined,
+          },
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": Array [
+              VNode {
+                "asyncFactory": undefined,
+                "asyncMeta": undefined,
+                "children": Array [
+                  VNode {
+                    "asyncFactory": undefined,
+                    "asyncMeta": undefined,
+                    "children": undefined,
+                    "componentInstance": undefined,
+                    "componentOptions": undefined,
+                    "context": undefined,
+                    "data": undefined,
+                    "elm": 按鈕,
+                    "fnContext": undefined,
+                    "fnOptions": undefined,
+                    "fnScopeId": undefined,
+                    "isAsyncPlaceholder": false,
+                    "isCloned": false,
+                    "isComment": false,
+                    "isOnce": false,
+                    "isRootInsert": false,
+                    "isStatic": false,
+                    "key": undefined,
+                    "ns": undefined,
+                    "parent": undefined,
+                    "raw": false,
+                    "tag": undefined,
+                    "text": "按鈕",
+                  },
+                ],
+                "componentInstance": undefined,
+                "componentOptions": undefined,
+                "context": [Circular],
+                "data": Object {
+                  "attrs": Object {
+                    "id": "button-send",
+                  },
+                  "on": Object {
+                    "click": [Function],
+                  },
+                },
+                "elm": <button
+                  id="button-send"
+                >
+                  按鈕
+                </button>,
+                "fnContext": undefined,
+                "fnOptions": undefined,
+                "fnScopeId": undefined,
+                "isAsyncPlaceholder": false,
+                "isCloned": false,
+                "isComment": false,
+                "isOnce": false,
+                "isRootInsert": false,
+                "isStatic": false,
+                "key": undefined,
+                "ns": undefined,
+                "parent": undefined,
+                "raw": false,
+                "tag": "button",
+                "text": undefined,
+              },
+            ],
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": [Circular],
+            "data": Object {
+              "staticClass": "row",
+            },
+            "elm": <div
+              class="row"
+            >
+              <button
+                id="button-send"
+              >
+                按鈕
+              </button>
+            </div>,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": "div",
+            "text": undefined,
+          },
+        ],
+        "componentInstance": undefined,
+        "componentOptions": undefined,
+        "context": [Circular],
+        "data": Object {
+          "attrs": Object {
+            "id": "app",
+          },
+        },
+        "elm": <div
+          id="app"
+        >
+          <div
+            class="row"
+          >
+            <label>
+              帳號：
+            </label>
+            <input
+              id="input-account"
+              placeholder="請輸入假信箱..."
+              type="text"
+            />
+          </div>
+          <div
+            class="row"
+          >
+            <label>
+              密碼：
+            </label>
+            <input
+              id="input-password"
+              placeholder="請輸入假密碼..."
+              type="password"
+            />
+          </div>
+          <div
+            class="row"
+          >
+            <button
+              id="button-send"
+            >
+              按鈕
+            </button>
+          </div>
+        </div>,
+        "fnContext": undefined,
+        "fnOptions": undefined,
+        "fnScopeId": undefined,
+        "isAsyncPlaceholder": false,
+        "isCloned": false,
+        "isComment": false,
+        "isOnce": false,
+        "isRootInsert": true,
+        "isStatic": false,
+        "key": undefined,
+        "ns": undefined,
+        "parent": undefined,
+        "raw": false,
+        "tag": "div",
+        "text": undefined,
+      },
+      "_watcher": Watcher {
+        "active": true,
+        "cb": [Function],
+        "deep": false,
+        "depIds": Set {
+          6,
+          7,
+          2,
+        },
+        "deps": Array [
+          Dep {
+            "id": 6,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 7,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 2,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+        ],
+        "dirty": false,
+        "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+        "getter": [Function],
+        "id": 2,
+        "lazy": false,
+        "newDepIds": Set {},
+        "newDeps": Array [],
+        "sync": false,
+        "user": false,
+        "value": undefined,
+        "vm": [Circular],
+      },
+      "_watchers": Array [
+        Watcher {
+          "active": true,
+          "cb": [Function],
+          "deep": false,
+          "depIds": Set {
+            4,
+            3,
+          },
+          "deps": Array [
+            Dep {
+              "id": 4,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+            Dep {
+              "id": 3,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+          ],
+          "dirty": false,
+          "expression": "autoFakeAccount",
+          "getter": [Function],
+          "id": 1,
+          "lazy": false,
+          "newDepIds": Set {},
+          "newDeps": Array [],
+          "sync": false,
+          "user": true,
+          "value": Object {},
+          "vm": [Circular],
+        },
+        Watcher {
+          "active": true,
+          "cb": [Function],
+          "deep": false,
+          "depIds": Set {
+            6,
+            7,
+            2,
+          },
+          "deps": Array [
+            Dep {
+              "id": 6,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+            Dep {
+              "id": 7,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+            Dep {
+              "id": 2,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+          ],
+          "dirty": false,
+          "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+          "getter": [Function],
+          "id": 2,
+          "lazy": false,
+          "newDepIds": Set {},
+          "newDeps": Array [],
+          "sync": false,
+          "user": false,
+          "value": undefined,
+          "vm": [Circular],
+        },
+      ],
+      "accountValue": "",
+      "clickSendBtn": [Function],
+      "passwordValue": "",
+    },
+    "_self": [Circular],
+    "_staticTrees": null,
+    "_uid": 0,
+    "_vnode": VNode {
+      "asyncFactory": undefined,
+      "asyncMeta": undefined,
+      "children": Array [
+        VNode {
+          "asyncFactory": undefined,
+          "asyncMeta": undefined,
+          "children": Array [
+            VNode {
+              "asyncFactory": undefined,
+              "asyncMeta": undefined,
+              "children": Array [
+                VNode {
+                  "asyncFactory": undefined,
+                  "asyncMeta": undefined,
+                  "children": undefined,
+                  "componentInstance": undefined,
+                  "componentOptions": undefined,
+                  "context": undefined,
+                  "data": undefined,
+                  "elm": 帳號：,
+                  "fnContext": undefined,
+                  "fnOptions": undefined,
+                  "fnScopeId": undefined,
+                  "isAsyncPlaceholder": false,
+                  "isCloned": false,
+                  "isComment": false,
+                  "isOnce": false,
+                  "isRootInsert": false,
+                  "isStatic": false,
+                  "key": undefined,
+                  "ns": undefined,
+                  "parent": undefined,
+                  "raw": false,
+                  "tag": undefined,
+                  "text": "帳號：",
+                },
+              ],
+              "componentInstance": undefined,
+              "componentOptions": undefined,
+              "context": [Circular],
+              "data": undefined,
+              "elm": <label>
+                帳號：
+              </label>,
+              "fnContext": undefined,
+              "fnOptions": undefined,
+              "fnScopeId": undefined,
+              "isAsyncPlaceholder": false,
+              "isCloned": false,
+              "isComment": false,
+              "isOnce": false,
+              "isRootInsert": false,
+              "isStatic": false,
+              "key": undefined,
+              "ns": undefined,
+              "parent": undefined,
+              "raw": false,
+              "tag": "label",
+              "text": undefined,
+            },
+            VNode {
+              "asyncFactory": undefined,
+              "asyncMeta": undefined,
+              "children": undefined,
+              "componentInstance": undefined,
+              "componentOptions": undefined,
+              "context": [Circular],
+              "data": Object {
+                "attrs": Object {
+                  "id": "input-account",
+                  "placeholder": "請輸入假信箱...",
+                  "type": "text",
+                },
+                "directives": Array [
+                  Object {
+                    "def": Object {
+                      "componentUpdated": [Function],
+                      "inserted": [Function],
+                    },
+                    "expression": "accountValue",
+                    "modifiers": Object {},
+                    "name": "model",
+                    "rawName": "v-model",
+                    "value": "",
+                  },
+                ],
+                "domProps": Object {
+                  "value": "",
+                },
+                "hook": Object {
+                  "insert": [Function],
+                },
+                "on": Object {
+                  "input": [Function],
+                },
+              },
+              "elm": <input
+                id="input-account"
+                placeholder="請輸入假信箱..."
+                type="text"
+              />,
+              "fnContext": undefined,
+              "fnOptions": undefined,
+              "fnScopeId": undefined,
+              "isAsyncPlaceholder": false,
+              "isCloned": false,
+              "isComment": false,
+              "isOnce": false,
+              "isRootInsert": false,
+              "isStatic": false,
+              "key": undefined,
+              "ns": undefined,
+              "parent": undefined,
+              "raw": false,
+              "tag": "input",
+              "text": undefined,
+            },
+          ],
+          "componentInstance": undefined,
+          "componentOptions": undefined,
+          "context": [Circular],
+          "data": Object {
+            "staticClass": "row",
+          },
+          "elm": <div
+            class="row"
+          >
+            <label>
+              帳號：
+            </label>
+            <input
+              id="input-account"
+              placeholder="請輸入假信箱..."
+              type="text"
+            />
+          </div>,
+          "fnContext": undefined,
+          "fnOptions": undefined,
+          "fnScopeId": undefined,
+          "isAsyncPlaceholder": false,
+          "isCloned": false,
+          "isComment": false,
+          "isOnce": false,
+          "isRootInsert": false,
+          "isStatic": false,
+          "key": undefined,
+          "ns": undefined,
+          "parent": undefined,
+          "raw": false,
+          "tag": "div",
+          "text": undefined,
+        },
+        VNode {
+          "asyncFactory": undefined,
+          "asyncMeta": undefined,
+          "children": Array [
+            VNode {
+              "asyncFactory": undefined,
+              "asyncMeta": undefined,
+              "children": Array [
+                VNode {
+                  "asyncFactory": undefined,
+                  "asyncMeta": undefined,
+                  "children": undefined,
+                  "componentInstance": undefined,
+                  "componentOptions": undefined,
+                  "context": undefined,
+                  "data": undefined,
+                  "elm": 密碼：,
+                  "fnContext": undefined,
+                  "fnOptions": undefined,
+                  "fnScopeId": undefined,
+                  "isAsyncPlaceholder": false,
+                  "isCloned": false,
+                  "isComment": false,
+                  "isOnce": false,
+                  "isRootInsert": false,
+                  "isStatic": false,
+                  "key": undefined,
+                  "ns": undefined,
+                  "parent": undefined,
+                  "raw": false,
+                  "tag": undefined,
+                  "text": "密碼：",
+                },
+              ],
+              "componentInstance": undefined,
+              "componentOptions": undefined,
+              "context": [Circular],
+              "data": undefined,
+              "elm": <label>
+                密碼：
+              </label>,
+              "fnContext": undefined,
+              "fnOptions": undefined,
+              "fnScopeId": undefined,
+              "isAsyncPlaceholder": false,
+              "isCloned": false,
+              "isComment": false,
+              "isOnce": false,
+              "isRootInsert": false,
+              "isStatic": false,
+              "key": undefined,
+              "ns": undefined,
+              "parent": undefined,
+              "raw": false,
+              "tag": "label",
+              "text": undefined,
+            },
+            VNode {
+              "asyncFactory": undefined,
+              "asyncMeta": undefined,
+              "children": undefined,
+              "componentInstance": undefined,
+              "componentOptions": undefined,
+              "context": [Circular],
+              "data": Object {
+                "attrs": Object {
+                  "id": "input-password",
+                  "placeholder": "請輸入假密碼...",
+                  "type": "password",
+                },
+                "directives": Array [
+                  Object {
+                    "def": Object {
+                      "componentUpdated": [Function],
+                      "inserted": [Function],
+                    },
+                    "expression": "passwordValue",
+                    "modifiers": Object {},
+                    "name": "model",
+                    "rawName": "v-model",
+                    "value": "",
+                  },
+                ],
+                "domProps": Object {
+                  "value": "",
+                },
+                "hook": Object {
+                  "insert": [Function],
+                },
+                "on": Object {
+                  "input": [Function],
+                },
+              },
+              "elm": <input
+                id="input-password"
+                placeholder="請輸入假密碼..."
+                type="password"
+              />,
+              "fnContext": undefined,
+              "fnOptions": undefined,
+              "fnScopeId": undefined,
+              "isAsyncPlaceholder": false,
+              "isCloned": false,
+              "isComment": false,
+              "isOnce": false,
+              "isRootInsert": false,
+              "isStatic": false,
+              "key": undefined,
+              "ns": undefined,
+              "parent": undefined,
+              "raw": false,
+              "tag": "input",
+              "text": undefined,
+            },
+          ],
+          "componentInstance": undefined,
+          "componentOptions": undefined,
+          "context": [Circular],
+          "data": Object {
+            "staticClass": "row",
+          },
+          "elm": <div
+            class="row"
+          >
+            <label>
+              密碼：
+            </label>
+            <input
+              id="input-password"
+              placeholder="請輸入假密碼..."
+              type="password"
+            />
+          </div>,
+          "fnContext": undefined,
+          "fnOptions": undefined,
+          "fnScopeId": undefined,
+          "isAsyncPlaceholder": false,
+          "isCloned": false,
+          "isComment": false,
+          "isOnce": false,
+          "isRootInsert": false,
+          "isStatic": false,
+          "key": undefined,
+          "ns": undefined,
+          "parent": undefined,
+          "raw": false,
+          "tag": "div",
+          "text": undefined,
+        },
+        VNode {
+          "asyncFactory": undefined,
+          "asyncMeta": undefined,
+          "children": Array [
+            VNode {
+              "asyncFactory": undefined,
+              "asyncMeta": undefined,
+              "children": Array [
+                VNode {
+                  "asyncFactory": undefined,
+                  "asyncMeta": undefined,
+                  "children": undefined,
+                  "componentInstance": undefined,
+                  "componentOptions": undefined,
+                  "context": undefined,
+                  "data": undefined,
+                  "elm": 按鈕,
+                  "fnContext": undefined,
+                  "fnOptions": undefined,
+                  "fnScopeId": undefined,
+                  "isAsyncPlaceholder": false,
+                  "isCloned": false,
+                  "isComment": false,
+                  "isOnce": false,
+                  "isRootInsert": false,
+                  "isStatic": false,
+                  "key": undefined,
+                  "ns": undefined,
+                  "parent": undefined,
+                  "raw": false,
+                  "tag": undefined,
+                  "text": "按鈕",
+                },
+              ],
+              "componentInstance": undefined,
+              "componentOptions": undefined,
+              "context": [Circular],
+              "data": Object {
+                "attrs": Object {
+                  "id": "button-send",
+                },
+                "on": Object {
+                  "click": [Function],
+                },
+              },
+              "elm": <button
+                id="button-send"
+              >
+                按鈕
+              </button>,
+              "fnContext": undefined,
+              "fnOptions": undefined,
+              "fnScopeId": undefined,
+              "isAsyncPlaceholder": false,
+              "isCloned": false,
+              "isComment": false,
+              "isOnce": false,
+              "isRootInsert": false,
+              "isStatic": false,
+              "key": undefined,
+              "ns": undefined,
+              "parent": undefined,
+              "raw": false,
+              "tag": "button",
+              "text": undefined,
+            },
+          ],
+          "componentInstance": undefined,
+          "componentOptions": undefined,
+          "context": [Circular],
+          "data": Object {
+            "staticClass": "row",
+          },
+          "elm": <div
+            class="row"
+          >
+            <button
+              id="button-send"
+            >
+              按鈕
+            </button>
+          </div>,
+          "fnContext": undefined,
+          "fnOptions": undefined,
+          "fnScopeId": undefined,
+          "isAsyncPlaceholder": false,
+          "isCloned": false,
+          "isComment": false,
+          "isOnce": false,
+          "isRootInsert": false,
+          "isStatic": false,
+          "key": undefined,
+          "ns": undefined,
+          "parent": undefined,
+          "raw": false,
+          "tag": "div",
+          "text": undefined,
+        },
+      ],
+      "componentInstance": undefined,
+      "componentOptions": undefined,
+      "context": [Circular],
+      "data": Object {
+        "attrs": Object {
+          "id": "app",
+        },
+      },
+      "elm": <div
+        id="app"
+      >
+        <div
+          class="row"
+        >
+          <label>
+            帳號：
+          </label>
+          <input
+            id="input-account"
+            placeholder="請輸入假信箱..."
+            type="text"
+          />
+        </div>
+        <div
+          class="row"
+        >
+          <label>
+            密碼：
+          </label>
+          <input
+            id="input-password"
+            placeholder="請輸入假密碼..."
+            type="password"
+          />
+        </div>
+        <div
+          class="row"
+        >
+          <button
+            id="button-send"
+          >
+            按鈕
+          </button>
+        </div>
+      </div>,
+      "fnContext": undefined,
+      "fnOptions": undefined,
+      "fnScopeId": undefined,
+      "isAsyncPlaceholder": false,
+      "isCloned": false,
+      "isComment": false,
+      "isOnce": false,
+      "isRootInsert": true,
+      "isStatic": false,
+      "key": undefined,
+      "ns": undefined,
+      "parent": undefined,
+      "raw": false,
+      "tag": "div",
+      "text": undefined,
+    },
+    "_watcher": Watcher {
+      "active": true,
+      "cb": [Function],
+      "deep": false,
+      "depIds": Set {
+        6,
+        7,
+        2,
+      },
+      "deps": Array [
+        Dep {
+          "id": 6,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 7,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+        Dep {
+          "id": 2,
+          "subs": Array [
+            [Circular],
+          ],
+        },
+      ],
+      "dirty": false,
+      "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+      "getter": [Function],
+      "id": 2,
+      "lazy": false,
+      "newDepIds": Set {},
+      "newDeps": Array [],
+      "sync": false,
+      "user": false,
+      "value": undefined,
+      "vm": [Circular],
+    },
+    "_watchers": Array [
+      Watcher {
+        "active": true,
+        "cb": [Function],
+        "deep": false,
+        "depIds": Set {
+          4,
+          3,
+        },
+        "deps": Array [
+          Dep {
+            "id": 4,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 3,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+        ],
+        "dirty": false,
+        "expression": "autoFakeAccount",
+        "getter": [Function],
+        "id": 1,
+        "lazy": false,
+        "newDepIds": Set {},
+        "newDeps": Array [],
+        "sync": false,
+        "user": true,
+        "value": Object {},
+        "vm": [Circular],
+      },
+      Watcher {
+        "active": true,
+        "cb": [Function],
+        "deep": false,
+        "depIds": Set {
+          6,
+          7,
+          2,
+        },
+        "deps": Array [
+          Dep {
+            "id": 6,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 7,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 2,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+        ],
+        "dirty": false,
+        "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+        "getter": [Function],
+        "id": 2,
+        "lazy": false,
+        "newDepIds": Set {},
+        "newDeps": Array [],
+        "sync": false,
+        "user": false,
+        "value": undefined,
+        "vm": [Circular],
+      },
+    ],
+    "accountValue": "",
+    "clickSendBtn": [Function],
+    "passwordValue": "",
+  },
+  "vnode": VNode {
+    "asyncFactory": undefined,
+    "asyncMeta": undefined,
+    "children": Array [
+      VNode {
+        "asyncFactory": undefined,
+        "asyncMeta": undefined,
+        "children": Array [
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": Array [
+              VNode {
+                "asyncFactory": undefined,
+                "asyncMeta": undefined,
+                "children": undefined,
+                "componentInstance": undefined,
+                "componentOptions": undefined,
+                "context": undefined,
+                "data": undefined,
+                "elm": 帳號：,
+                "fnContext": undefined,
+                "fnOptions": undefined,
+                "fnScopeId": undefined,
+                "isAsyncPlaceholder": false,
+                "isCloned": false,
+                "isComment": false,
+                "isOnce": false,
+                "isRootInsert": false,
+                "isStatic": false,
+                "key": undefined,
+                "ns": undefined,
+                "parent": undefined,
+                "raw": false,
+                "tag": undefined,
+                "text": "帳號：",
+              },
+            ],
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": VueComponent {
+              "$_mountingOptionsSlots": undefined,
+              "$_originalSlots": Object {},
+              "$attrs": Object {},
+              "$children": Array [],
+              "$createElement": [Function],
+              "$el": <div
+                id="app"
+              >
+                <div
+                  class="row"
+                >
+                  <label>
+                    帳號：
+                  </label>
+                  <input
+                    id="input-account"
+                    placeholder="請輸入假信箱..."
+                    type="text"
+                  />
+                </div>
+                <div
+                  class="row"
+                >
+                  <label>
+                    密碼：
+                  </label>
+                  <input
+                    id="input-password"
+                    placeholder="請輸入假密碼..."
+                    type="password"
+                  />
+                </div>
+                <div
+                  class="row"
+                >
+                  <button
+                    id="button-send"
+                  >
+                    按鈕
+                  </button>
+                </div>
+              </div>,
+              "$emit": [Function],
+              "$listeners": Object {},
+              "$options": Object {
+                "_Ctor": Object {
+                  "1": [Function],
+                },
+                "_base": [Function],
+                "_parentElm": null,
+                "_propKeys": Array [
+                  "buttonValue",
+                  "autoFakeAccount",
+                ],
+                "_refElm": null,
+                "beforeCreate": Array [
+                  [Function],
+                ],
+                "components": Object {
+                  "transition": Object {
+                    "render": [Function],
+                  },
+                  "transition-group": Object {
+                    "render": [Function],
+                  },
+                },
+                "data": [Function],
+                "directives": Object {},
+                "filters": Object {},
+                "methods": Object {
+                  "clickSendBtn": [Function],
+                },
+                "name": "Signin",
+                "props": Object {
+                  "autoFakeAccount": Object {
+                    "default": [Function],
+                    "type": [Function],
+                  },
+                  "buttonValue": Object {
+                    "default": "按鈕",
+                    "type": [Function],
+                  },
+                },
+                "render": [Function],
+                "staticRenderFns": Array [],
+                "watch": Object {},
+              },
+              "$parent": undefined,
+              "$refs": Object {},
+              "$root": [Circular],
+              "$scopedSlots": Object {},
+              "$slots": Object {},
+              "$vnode": undefined,
+              "__emitted": Object {},
+              "__emittedByOrder": Array [],
+              "_c": [Function],
+              "_data": Object {
+                "accountValue": "",
+                "passwordValue": "",
+              },
+              "_directInactive": false,
+              "_events": Object {},
+              "_hasHookEvent": false,
+              "_inactive": null,
+              "_isBeingDestroyed": false,
+              "_isDestroyed": false,
+              "_isMounted": true,
+              "_isVue": true,
+              "_props": Object {
+                "autoFakeAccount": Object {},
+                "buttonValue": "按鈕",
+              },
+              "_renderProxy": VueComponent {
+                "$_mountingOptionsSlots": undefined,
+                "$_originalSlots": Object {},
+                "$attrs": Object {},
+                "$children": Array [],
+                "$createElement": [Function],
+                "$el": <div
+                  id="app"
+                >
+                  <div
+                    class="row"
+                  >
+                    <label>
+                      帳號：
+                    </label>
+                    <input
+                      id="input-account"
+                      placeholder="請輸入假信箱..."
+                      type="text"
+                    />
+                  </div>
+                  <div
+                    class="row"
+                  >
+                    <label>
+                      密碼：
+                    </label>
+                    <input
+                      id="input-password"
+                      placeholder="請輸入假密碼..."
+                      type="password"
+                    />
+                  </div>
+                  <div
+                    class="row"
+                  >
+                    <button
+                      id="button-send"
+                    >
+                      按鈕
+                    </button>
+                  </div>
+                </div>,
+                "$emit": [Function],
+                "$listeners": Object {},
+                "$options": Object {
+                  "_Ctor": Object {
+                    "1": [Function],
+                  },
+                  "_base": [Function],
+                  "_parentElm": null,
+                  "_propKeys": Array [
+                    "buttonValue",
+                    "autoFakeAccount",
+                  ],
+                  "_refElm": null,
+                  "beforeCreate": Array [
+                    [Function],
+                  ],
+                  "components": Object {
+                    "transition": Object {
+                      "render": [Function],
+                    },
+                    "transition-group": Object {
+                      "render": [Function],
+                    },
+                  },
+                  "data": [Function],
+                  "directives": Object {},
+                  "filters": Object {},
+                  "methods": Object {
+                    "clickSendBtn": [Function],
+                  },
+                  "name": "Signin",
+                  "props": Object {
+                    "autoFakeAccount": Object {
+                      "default": [Function],
+                      "type": [Function],
+                    },
+                    "buttonValue": Object {
+                      "default": "按鈕",
+                      "type": [Function],
+                    },
+                  },
+                  "render": [Function],
+                  "staticRenderFns": Array [],
+                  "watch": Object {},
+                },
+                "$parent": undefined,
+                "$refs": Object {},
+                "$root": [Circular],
+                "$scopedSlots": Object {},
+                "$slots": Object {},
+                "$vnode": undefined,
+                "__emitted": Object {},
+                "__emittedByOrder": Array [],
+                "_c": [Function],
+                "_data": Object {
+                  "accountValue": "",
+                  "passwordValue": "",
+                },
+                "_directInactive": false,
+                "_events": Object {},
+                "_hasHookEvent": false,
+                "_inactive": null,
+                "_isBeingDestroyed": false,
+                "_isDestroyed": false,
+                "_isMounted": true,
+                "_isVue": true,
+                "_props": Object {
+                  "autoFakeAccount": Object {},
+                  "buttonValue": "按鈕",
+                },
+                "_renderProxy": [Circular],
+                "_self": [Circular],
+                "_staticTrees": null,
+                "_uid": 0,
+                "_vnode": [Circular],
+                "_watcher": Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    6,
+                    7,
+                    2,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 6,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 7,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 2,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                  "getter": [Function],
+                  "id": 2,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": false,
+                  "value": undefined,
+                  "vm": [Circular],
+                },
+                "_watchers": Array [
+                  Watcher {
+                    "active": true,
+                    "cb": [Function],
+                    "deep": false,
+                    "depIds": Set {
+                      4,
+                      3,
+                    },
+                    "deps": Array [
+                      Dep {
+                        "id": 4,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 3,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                    ],
+                    "dirty": false,
+                    "expression": "autoFakeAccount",
+                    "getter": [Function],
+                    "id": 1,
+                    "lazy": false,
+                    "newDepIds": Set {},
+                    "newDeps": Array [],
+                    "sync": false,
+                    "user": true,
+                    "value": Object {},
+                    "vm": [Circular],
+                  },
+                  Watcher {
+                    "active": true,
+                    "cb": [Function],
+                    "deep": false,
+                    "depIds": Set {
+                      6,
+                      7,
+                      2,
+                    },
+                    "deps": Array [
+                      Dep {
+                        "id": 6,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 7,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 2,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                    ],
+                    "dirty": false,
+                    "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                    "getter": [Function],
+                    "id": 2,
+                    "lazy": false,
+                    "newDepIds": Set {},
+                    "newDeps": Array [],
+                    "sync": false,
+                    "user": false,
+                    "value": undefined,
+                    "vm": [Circular],
+                  },
+                ],
+                "accountValue": "",
+                "clickSendBtn": [Function],
+                "passwordValue": "",
+              },
+              "_self": [Circular],
+              "_staticTrees": null,
+              "_uid": 0,
+              "_vnode": [Circular],
+              "_watcher": Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  6,
+                  7,
+                  2,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 6,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 7,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 2,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                "getter": [Function],
+                "id": 2,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": false,
+                "value": undefined,
+                "vm": [Circular],
+              },
+              "_watchers": Array [
+                Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    4,
+                    3,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 4,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 3,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "autoFakeAccount",
+                  "getter": [Function],
+                  "id": 1,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": true,
+                  "value": Object {},
+                  "vm": [Circular],
+                },
+                Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    6,
+                    7,
+                    2,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 6,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 7,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 2,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                  "getter": [Function],
+                  "id": 2,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": false,
+                  "value": undefined,
+                  "vm": [Circular],
+                },
+              ],
+              "accountValue": "",
+              "clickSendBtn": [Function],
+              "passwordValue": "",
+            },
+            "data": undefined,
+            "elm": <label>
+              帳號：
+            </label>,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": "label",
+            "text": undefined,
+          },
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": undefined,
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": VueComponent {
+              "$_mountingOptionsSlots": undefined,
+              "$_originalSlots": Object {},
+              "$attrs": Object {},
+              "$children": Array [],
+              "$createElement": [Function],
+              "$el": <div
+                id="app"
+              >
+                <div
+                  class="row"
+                >
+                  <label>
+                    帳號：
+                  </label>
+                  <input
+                    id="input-account"
+                    placeholder="請輸入假信箱..."
+                    type="text"
+                  />
+                </div>
+                <div
+                  class="row"
+                >
+                  <label>
+                    密碼：
+                  </label>
+                  <input
+                    id="input-password"
+                    placeholder="請輸入假密碼..."
+                    type="password"
+                  />
+                </div>
+                <div
+                  class="row"
+                >
+                  <button
+                    id="button-send"
+                  >
+                    按鈕
+                  </button>
+                </div>
+              </div>,
+              "$emit": [Function],
+              "$listeners": Object {},
+              "$options": Object {
+                "_Ctor": Object {
+                  "1": [Function],
+                },
+                "_base": [Function],
+                "_parentElm": null,
+                "_propKeys": Array [
+                  "buttonValue",
+                  "autoFakeAccount",
+                ],
+                "_refElm": null,
+                "beforeCreate": Array [
+                  [Function],
+                ],
+                "components": Object {
+                  "transition": Object {
+                    "render": [Function],
+                  },
+                  "transition-group": Object {
+                    "render": [Function],
+                  },
+                },
+                "data": [Function],
+                "directives": Object {},
+                "filters": Object {},
+                "methods": Object {
+                  "clickSendBtn": [Function],
+                },
+                "name": "Signin",
+                "props": Object {
+                  "autoFakeAccount": Object {
+                    "default": [Function],
+                    "type": [Function],
+                  },
+                  "buttonValue": Object {
+                    "default": "按鈕",
+                    "type": [Function],
+                  },
+                },
+                "render": [Function],
+                "staticRenderFns": Array [],
+                "watch": Object {},
+              },
+              "$parent": undefined,
+              "$refs": Object {},
+              "$root": [Circular],
+              "$scopedSlots": Object {},
+              "$slots": Object {},
+              "$vnode": undefined,
+              "__emitted": Object {},
+              "__emittedByOrder": Array [],
+              "_c": [Function],
+              "_data": Object {
+                "accountValue": "",
+                "passwordValue": "",
+              },
+              "_directInactive": false,
+              "_events": Object {},
+              "_hasHookEvent": false,
+              "_inactive": null,
+              "_isBeingDestroyed": false,
+              "_isDestroyed": false,
+              "_isMounted": true,
+              "_isVue": true,
+              "_props": Object {
+                "autoFakeAccount": Object {},
+                "buttonValue": "按鈕",
+              },
+              "_renderProxy": VueComponent {
+                "$_mountingOptionsSlots": undefined,
+                "$_originalSlots": Object {},
+                "$attrs": Object {},
+                "$children": Array [],
+                "$createElement": [Function],
+                "$el": <div
+                  id="app"
+                >
+                  <div
+                    class="row"
+                  >
+                    <label>
+                      帳號：
+                    </label>
+                    <input
+                      id="input-account"
+                      placeholder="請輸入假信箱..."
+                      type="text"
+                    />
+                  </div>
+                  <div
+                    class="row"
+                  >
+                    <label>
+                      密碼：
+                    </label>
+                    <input
+                      id="input-password"
+                      placeholder="請輸入假密碼..."
+                      type="password"
+                    />
+                  </div>
+                  <div
+                    class="row"
+                  >
+                    <button
+                      id="button-send"
+                    >
+                      按鈕
+                    </button>
+                  </div>
+                </div>,
+                "$emit": [Function],
+                "$listeners": Object {},
+                "$options": Object {
+                  "_Ctor": Object {
+                    "1": [Function],
+                  },
+                  "_base": [Function],
+                  "_parentElm": null,
+                  "_propKeys": Array [
+                    "buttonValue",
+                    "autoFakeAccount",
+                  ],
+                  "_refElm": null,
+                  "beforeCreate": Array [
+                    [Function],
+                  ],
+                  "components": Object {
+                    "transition": Object {
+                      "render": [Function],
+                    },
+                    "transition-group": Object {
+                      "render": [Function],
+                    },
+                  },
+                  "data": [Function],
+                  "directives": Object {},
+                  "filters": Object {},
+                  "methods": Object {
+                    "clickSendBtn": [Function],
+                  },
+                  "name": "Signin",
+                  "props": Object {
+                    "autoFakeAccount": Object {
+                      "default": [Function],
+                      "type": [Function],
+                    },
+                    "buttonValue": Object {
+                      "default": "按鈕",
+                      "type": [Function],
+                    },
+                  },
+                  "render": [Function],
+                  "staticRenderFns": Array [],
+                  "watch": Object {},
+                },
+                "$parent": undefined,
+                "$refs": Object {},
+                "$root": [Circular],
+                "$scopedSlots": Object {},
+                "$slots": Object {},
+                "$vnode": undefined,
+                "__emitted": Object {},
+                "__emittedByOrder": Array [],
+                "_c": [Function],
+                "_data": Object {
+                  "accountValue": "",
+                  "passwordValue": "",
+                },
+                "_directInactive": false,
+                "_events": Object {},
+                "_hasHookEvent": false,
+                "_inactive": null,
+                "_isBeingDestroyed": false,
+                "_isDestroyed": false,
+                "_isMounted": true,
+                "_isVue": true,
+                "_props": Object {
+                  "autoFakeAccount": Object {},
+                  "buttonValue": "按鈕",
+                },
+                "_renderProxy": [Circular],
+                "_self": [Circular],
+                "_staticTrees": null,
+                "_uid": 0,
+                "_vnode": [Circular],
+                "_watcher": Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    6,
+                    7,
+                    2,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 6,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 7,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 2,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                  "getter": [Function],
+                  "id": 2,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": false,
+                  "value": undefined,
+                  "vm": [Circular],
+                },
+                "_watchers": Array [
+                  Watcher {
+                    "active": true,
+                    "cb": [Function],
+                    "deep": false,
+                    "depIds": Set {
+                      4,
+                      3,
+                    },
+                    "deps": Array [
+                      Dep {
+                        "id": 4,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 3,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                    ],
+                    "dirty": false,
+                    "expression": "autoFakeAccount",
+                    "getter": [Function],
+                    "id": 1,
+                    "lazy": false,
+                    "newDepIds": Set {},
+                    "newDeps": Array [],
+                    "sync": false,
+                    "user": true,
+                    "value": Object {},
+                    "vm": [Circular],
+                  },
+                  Watcher {
+                    "active": true,
+                    "cb": [Function],
+                    "deep": false,
+                    "depIds": Set {
+                      6,
+                      7,
+                      2,
+                    },
+                    "deps": Array [
+                      Dep {
+                        "id": 6,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 7,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 2,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                    ],
+                    "dirty": false,
+                    "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                    "getter": [Function],
+                    "id": 2,
+                    "lazy": false,
+                    "newDepIds": Set {},
+                    "newDeps": Array [],
+                    "sync": false,
+                    "user": false,
+                    "value": undefined,
+                    "vm": [Circular],
+                  },
+                ],
+                "accountValue": "",
+                "clickSendBtn": [Function],
+                "passwordValue": "",
+              },
+              "_self": [Circular],
+              "_staticTrees": null,
+              "_uid": 0,
+              "_vnode": [Circular],
+              "_watcher": Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  6,
+                  7,
+                  2,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 6,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 7,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 2,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                "getter": [Function],
+                "id": 2,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": false,
+                "value": undefined,
+                "vm": [Circular],
+              },
+              "_watchers": Array [
+                Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    4,
+                    3,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 4,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 3,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "autoFakeAccount",
+                  "getter": [Function],
+                  "id": 1,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": true,
+                  "value": Object {},
+                  "vm": [Circular],
+                },
+                Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    6,
+                    7,
+                    2,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 6,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 7,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 2,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                  "getter": [Function],
+                  "id": 2,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": false,
+                  "value": undefined,
+                  "vm": [Circular],
+                },
+              ],
+              "accountValue": "",
+              "clickSendBtn": [Function],
+              "passwordValue": "",
+            },
+            "data": Object {
+              "attrs": Object {
+                "id": "input-account",
+                "placeholder": "請輸入假信箱...",
+                "type": "text",
+              },
+              "directives": Array [
+                Object {
+                  "def": Object {
+                    "componentUpdated": [Function],
+                    "inserted": [Function],
+                  },
+                  "expression": "accountValue",
+                  "modifiers": Object {},
+                  "name": "model",
+                  "rawName": "v-model",
+                  "value": "",
+                },
+              ],
+              "domProps": Object {
+                "value": "",
+              },
+              "hook": Object {
+                "insert": [Function],
+              },
+              "on": Object {
+                "input": [Function],
+              },
+            },
+            "elm": <input
+              id="input-account"
+              placeholder="請輸入假信箱..."
+              type="text"
+            />,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": "input",
+            "text": undefined,
+          },
+        ],
+        "componentInstance": undefined,
+        "componentOptions": undefined,
+        "context": VueComponent {
+          "$_mountingOptionsSlots": undefined,
+          "$_originalSlots": Object {},
+          "$attrs": Object {},
+          "$children": Array [],
+          "$createElement": [Function],
+          "$el": <div
+            id="app"
+          >
+            <div
+              class="row"
+            >
+              <label>
+                帳號：
+              </label>
+              <input
+                id="input-account"
+                placeholder="請輸入假信箱..."
+                type="text"
+              />
+            </div>
+            <div
+              class="row"
+            >
+              <label>
+                密碼：
+              </label>
+              <input
+                id="input-password"
+                placeholder="請輸入假密碼..."
+                type="password"
+              />
+            </div>
+            <div
+              class="row"
+            >
+              <button
+                id="button-send"
+              >
+                按鈕
+              </button>
+            </div>
+          </div>,
+          "$emit": [Function],
+          "$listeners": Object {},
+          "$options": Object {
+            "_Ctor": Object {
+              "1": [Function],
+            },
+            "_base": [Function],
+            "_parentElm": null,
+            "_propKeys": Array [
+              "buttonValue",
+              "autoFakeAccount",
+            ],
+            "_refElm": null,
+            "beforeCreate": Array [
+              [Function],
+            ],
+            "components": Object {
+              "transition": Object {
+                "render": [Function],
+              },
+              "transition-group": Object {
+                "render": [Function],
+              },
+            },
+            "data": [Function],
+            "directives": Object {},
+            "filters": Object {},
+            "methods": Object {
+              "clickSendBtn": [Function],
+            },
+            "name": "Signin",
+            "props": Object {
+              "autoFakeAccount": Object {
+                "default": [Function],
+                "type": [Function],
+              },
+              "buttonValue": Object {
+                "default": "按鈕",
+                "type": [Function],
+              },
+            },
+            "render": [Function],
+            "staticRenderFns": Array [],
+            "watch": Object {},
+          },
+          "$parent": undefined,
+          "$refs": Object {},
+          "$root": [Circular],
+          "$scopedSlots": Object {},
+          "$slots": Object {},
+          "$vnode": undefined,
+          "__emitted": Object {},
+          "__emittedByOrder": Array [],
+          "_c": [Function],
+          "_data": Object {
+            "accountValue": "",
+            "passwordValue": "",
+          },
+          "_directInactive": false,
+          "_events": Object {},
+          "_hasHookEvent": false,
+          "_inactive": null,
+          "_isBeingDestroyed": false,
+          "_isDestroyed": false,
+          "_isMounted": true,
+          "_isVue": true,
+          "_props": Object {
+            "autoFakeAccount": Object {},
+            "buttonValue": "按鈕",
+          },
+          "_renderProxy": VueComponent {
+            "$_mountingOptionsSlots": undefined,
+            "$_originalSlots": Object {},
+            "$attrs": Object {},
+            "$children": Array [],
+            "$createElement": [Function],
+            "$el": <div
+              id="app"
+            >
+              <div
+                class="row"
+              >
+                <label>
+                  帳號：
+                </label>
+                <input
+                  id="input-account"
+                  placeholder="請輸入假信箱..."
+                  type="text"
+                />
+              </div>
+              <div
+                class="row"
+              >
+                <label>
+                  密碼：
+                </label>
+                <input
+                  id="input-password"
+                  placeholder="請輸入假密碼..."
+                  type="password"
+                />
+              </div>
+              <div
+                class="row"
+              >
+                <button
+                  id="button-send"
+                >
+                  按鈕
+                </button>
+              </div>
+            </div>,
+            "$emit": [Function],
+            "$listeners": Object {},
+            "$options": Object {
+              "_Ctor": Object {
+                "1": [Function],
+              },
+              "_base": [Function],
+              "_parentElm": null,
+              "_propKeys": Array [
+                "buttonValue",
+                "autoFakeAccount",
+              ],
+              "_refElm": null,
+              "beforeCreate": Array [
+                [Function],
+              ],
+              "components": Object {
+                "transition": Object {
+                  "render": [Function],
+                },
+                "transition-group": Object {
+                  "render": [Function],
+                },
+              },
+              "data": [Function],
+              "directives": Object {},
+              "filters": Object {},
+              "methods": Object {
+                "clickSendBtn": [Function],
+              },
+              "name": "Signin",
+              "props": Object {
+                "autoFakeAccount": Object {
+                  "default": [Function],
+                  "type": [Function],
+                },
+                "buttonValue": Object {
+                  "default": "按鈕",
+                  "type": [Function],
+                },
+              },
+              "render": [Function],
+              "staticRenderFns": Array [],
+              "watch": Object {},
+            },
+            "$parent": undefined,
+            "$refs": Object {},
+            "$root": [Circular],
+            "$scopedSlots": Object {},
+            "$slots": Object {},
+            "$vnode": undefined,
+            "__emitted": Object {},
+            "__emittedByOrder": Array [],
+            "_c": [Function],
+            "_data": Object {
+              "accountValue": "",
+              "passwordValue": "",
+            },
+            "_directInactive": false,
+            "_events": Object {},
+            "_hasHookEvent": false,
+            "_inactive": null,
+            "_isBeingDestroyed": false,
+            "_isDestroyed": false,
+            "_isMounted": true,
+            "_isVue": true,
+            "_props": Object {
+              "autoFakeAccount": Object {},
+              "buttonValue": "按鈕",
+            },
+            "_renderProxy": [Circular],
+            "_self": [Circular],
+            "_staticTrees": null,
+            "_uid": 0,
+            "_vnode": [Circular],
+            "_watcher": Watcher {
+              "active": true,
+              "cb": [Function],
+              "deep": false,
+              "depIds": Set {
+                6,
+                7,
+                2,
+              },
+              "deps": Array [
+                Dep {
+                  "id": 6,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 7,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 2,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+              ],
+              "dirty": false,
+              "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+              "getter": [Function],
+              "id": 2,
+              "lazy": false,
+              "newDepIds": Set {},
+              "newDeps": Array [],
+              "sync": false,
+              "user": false,
+              "value": undefined,
+              "vm": [Circular],
+            },
+            "_watchers": Array [
+              Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  4,
+                  3,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 4,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 3,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "autoFakeAccount",
+                "getter": [Function],
+                "id": 1,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": true,
+                "value": Object {},
+                "vm": [Circular],
+              },
+              Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  6,
+                  7,
+                  2,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 6,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 7,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 2,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                "getter": [Function],
+                "id": 2,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": false,
+                "value": undefined,
+                "vm": [Circular],
+              },
+            ],
+            "accountValue": "",
+            "clickSendBtn": [Function],
+            "passwordValue": "",
+          },
+          "_self": [Circular],
+          "_staticTrees": null,
+          "_uid": 0,
+          "_vnode": [Circular],
+          "_watcher": Watcher {
+            "active": true,
+            "cb": [Function],
+            "deep": false,
+            "depIds": Set {
+              6,
+              7,
+              2,
+            },
+            "deps": Array [
+              Dep {
+                "id": 6,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+              Dep {
+                "id": 7,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+              Dep {
+                "id": 2,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+            ],
+            "dirty": false,
+            "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+            "getter": [Function],
+            "id": 2,
+            "lazy": false,
+            "newDepIds": Set {},
+            "newDeps": Array [],
+            "sync": false,
+            "user": false,
+            "value": undefined,
+            "vm": [Circular],
+          },
+          "_watchers": Array [
+            Watcher {
+              "active": true,
+              "cb": [Function],
+              "deep": false,
+              "depIds": Set {
+                4,
+                3,
+              },
+              "deps": Array [
+                Dep {
+                  "id": 4,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 3,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+              ],
+              "dirty": false,
+              "expression": "autoFakeAccount",
+              "getter": [Function],
+              "id": 1,
+              "lazy": false,
+              "newDepIds": Set {},
+              "newDeps": Array [],
+              "sync": false,
+              "user": true,
+              "value": Object {},
+              "vm": [Circular],
+            },
+            Watcher {
+              "active": true,
+              "cb": [Function],
+              "deep": false,
+              "depIds": Set {
+                6,
+                7,
+                2,
+              },
+              "deps": Array [
+                Dep {
+                  "id": 6,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 7,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 2,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+              ],
+              "dirty": false,
+              "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+              "getter": [Function],
+              "id": 2,
+              "lazy": false,
+              "newDepIds": Set {},
+              "newDeps": Array [],
+              "sync": false,
+              "user": false,
+              "value": undefined,
+              "vm": [Circular],
+            },
+          ],
+          "accountValue": "",
+          "clickSendBtn": [Function],
+          "passwordValue": "",
+        },
+        "data": Object {
+          "staticClass": "row",
+        },
+        "elm": <div
+          class="row"
+        >
+          <label>
+            帳號：
+          </label>
+          <input
+            id="input-account"
+            placeholder="請輸入假信箱..."
+            type="text"
+          />
+        </div>,
+        "fnContext": undefined,
+        "fnOptions": undefined,
+        "fnScopeId": undefined,
+        "isAsyncPlaceholder": false,
+        "isCloned": false,
+        "isComment": false,
+        "isOnce": false,
+        "isRootInsert": false,
+        "isStatic": false,
+        "key": undefined,
+        "ns": undefined,
+        "parent": undefined,
+        "raw": false,
+        "tag": "div",
+        "text": undefined,
+      },
+      VNode {
+        "asyncFactory": undefined,
+        "asyncMeta": undefined,
+        "children": Array [
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": Array [
+              VNode {
+                "asyncFactory": undefined,
+                "asyncMeta": undefined,
+                "children": undefined,
+                "componentInstance": undefined,
+                "componentOptions": undefined,
+                "context": undefined,
+                "data": undefined,
+                "elm": 密碼：,
+                "fnContext": undefined,
+                "fnOptions": undefined,
+                "fnScopeId": undefined,
+                "isAsyncPlaceholder": false,
+                "isCloned": false,
+                "isComment": false,
+                "isOnce": false,
+                "isRootInsert": false,
+                "isStatic": false,
+                "key": undefined,
+                "ns": undefined,
+                "parent": undefined,
+                "raw": false,
+                "tag": undefined,
+                "text": "密碼：",
+              },
+            ],
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": VueComponent {
+              "$_mountingOptionsSlots": undefined,
+              "$_originalSlots": Object {},
+              "$attrs": Object {},
+              "$children": Array [],
+              "$createElement": [Function],
+              "$el": <div
+                id="app"
+              >
+                <div
+                  class="row"
+                >
+                  <label>
+                    帳號：
+                  </label>
+                  <input
+                    id="input-account"
+                    placeholder="請輸入假信箱..."
+                    type="text"
+                  />
+                </div>
+                <div
+                  class="row"
+                >
+                  <label>
+                    密碼：
+                  </label>
+                  <input
+                    id="input-password"
+                    placeholder="請輸入假密碼..."
+                    type="password"
+                  />
+                </div>
+                <div
+                  class="row"
+                >
+                  <button
+                    id="button-send"
+                  >
+                    按鈕
+                  </button>
+                </div>
+              </div>,
+              "$emit": [Function],
+              "$listeners": Object {},
+              "$options": Object {
+                "_Ctor": Object {
+                  "1": [Function],
+                },
+                "_base": [Function],
+                "_parentElm": null,
+                "_propKeys": Array [
+                  "buttonValue",
+                  "autoFakeAccount",
+                ],
+                "_refElm": null,
+                "beforeCreate": Array [
+                  [Function],
+                ],
+                "components": Object {
+                  "transition": Object {
+                    "render": [Function],
+                  },
+                  "transition-group": Object {
+                    "render": [Function],
+                  },
+                },
+                "data": [Function],
+                "directives": Object {},
+                "filters": Object {},
+                "methods": Object {
+                  "clickSendBtn": [Function],
+                },
+                "name": "Signin",
+                "props": Object {
+                  "autoFakeAccount": Object {
+                    "default": [Function],
+                    "type": [Function],
+                  },
+                  "buttonValue": Object {
+                    "default": "按鈕",
+                    "type": [Function],
+                  },
+                },
+                "render": [Function],
+                "staticRenderFns": Array [],
+                "watch": Object {},
+              },
+              "$parent": undefined,
+              "$refs": Object {},
+              "$root": [Circular],
+              "$scopedSlots": Object {},
+              "$slots": Object {},
+              "$vnode": undefined,
+              "__emitted": Object {},
+              "__emittedByOrder": Array [],
+              "_c": [Function],
+              "_data": Object {
+                "accountValue": "",
+                "passwordValue": "",
+              },
+              "_directInactive": false,
+              "_events": Object {},
+              "_hasHookEvent": false,
+              "_inactive": null,
+              "_isBeingDestroyed": false,
+              "_isDestroyed": false,
+              "_isMounted": true,
+              "_isVue": true,
+              "_props": Object {
+                "autoFakeAccount": Object {},
+                "buttonValue": "按鈕",
+              },
+              "_renderProxy": VueComponent {
+                "$_mountingOptionsSlots": undefined,
+                "$_originalSlots": Object {},
+                "$attrs": Object {},
+                "$children": Array [],
+                "$createElement": [Function],
+                "$el": <div
+                  id="app"
+                >
+                  <div
+                    class="row"
+                  >
+                    <label>
+                      帳號：
+                    </label>
+                    <input
+                      id="input-account"
+                      placeholder="請輸入假信箱..."
+                      type="text"
+                    />
+                  </div>
+                  <div
+                    class="row"
+                  >
+                    <label>
+                      密碼：
+                    </label>
+                    <input
+                      id="input-password"
+                      placeholder="請輸入假密碼..."
+                      type="password"
+                    />
+                  </div>
+                  <div
+                    class="row"
+                  >
+                    <button
+                      id="button-send"
+                    >
+                      按鈕
+                    </button>
+                  </div>
+                </div>,
+                "$emit": [Function],
+                "$listeners": Object {},
+                "$options": Object {
+                  "_Ctor": Object {
+                    "1": [Function],
+                  },
+                  "_base": [Function],
+                  "_parentElm": null,
+                  "_propKeys": Array [
+                    "buttonValue",
+                    "autoFakeAccount",
+                  ],
+                  "_refElm": null,
+                  "beforeCreate": Array [
+                    [Function],
+                  ],
+                  "components": Object {
+                    "transition": Object {
+                      "render": [Function],
+                    },
+                    "transition-group": Object {
+                      "render": [Function],
+                    },
+                  },
+                  "data": [Function],
+                  "directives": Object {},
+                  "filters": Object {},
+                  "methods": Object {
+                    "clickSendBtn": [Function],
+                  },
+                  "name": "Signin",
+                  "props": Object {
+                    "autoFakeAccount": Object {
+                      "default": [Function],
+                      "type": [Function],
+                    },
+                    "buttonValue": Object {
+                      "default": "按鈕",
+                      "type": [Function],
+                    },
+                  },
+                  "render": [Function],
+                  "staticRenderFns": Array [],
+                  "watch": Object {},
+                },
+                "$parent": undefined,
+                "$refs": Object {},
+                "$root": [Circular],
+                "$scopedSlots": Object {},
+                "$slots": Object {},
+                "$vnode": undefined,
+                "__emitted": Object {},
+                "__emittedByOrder": Array [],
+                "_c": [Function],
+                "_data": Object {
+                  "accountValue": "",
+                  "passwordValue": "",
+                },
+                "_directInactive": false,
+                "_events": Object {},
+                "_hasHookEvent": false,
+                "_inactive": null,
+                "_isBeingDestroyed": false,
+                "_isDestroyed": false,
+                "_isMounted": true,
+                "_isVue": true,
+                "_props": Object {
+                  "autoFakeAccount": Object {},
+                  "buttonValue": "按鈕",
+                },
+                "_renderProxy": [Circular],
+                "_self": [Circular],
+                "_staticTrees": null,
+                "_uid": 0,
+                "_vnode": [Circular],
+                "_watcher": Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    6,
+                    7,
+                    2,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 6,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 7,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 2,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                  "getter": [Function],
+                  "id": 2,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": false,
+                  "value": undefined,
+                  "vm": [Circular],
+                },
+                "_watchers": Array [
+                  Watcher {
+                    "active": true,
+                    "cb": [Function],
+                    "deep": false,
+                    "depIds": Set {
+                      4,
+                      3,
+                    },
+                    "deps": Array [
+                      Dep {
+                        "id": 4,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 3,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                    ],
+                    "dirty": false,
+                    "expression": "autoFakeAccount",
+                    "getter": [Function],
+                    "id": 1,
+                    "lazy": false,
+                    "newDepIds": Set {},
+                    "newDeps": Array [],
+                    "sync": false,
+                    "user": true,
+                    "value": Object {},
+                    "vm": [Circular],
+                  },
+                  Watcher {
+                    "active": true,
+                    "cb": [Function],
+                    "deep": false,
+                    "depIds": Set {
+                      6,
+                      7,
+                      2,
+                    },
+                    "deps": Array [
+                      Dep {
+                        "id": 6,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 7,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 2,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                    ],
+                    "dirty": false,
+                    "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                    "getter": [Function],
+                    "id": 2,
+                    "lazy": false,
+                    "newDepIds": Set {},
+                    "newDeps": Array [],
+                    "sync": false,
+                    "user": false,
+                    "value": undefined,
+                    "vm": [Circular],
+                  },
+                ],
+                "accountValue": "",
+                "clickSendBtn": [Function],
+                "passwordValue": "",
+              },
+              "_self": [Circular],
+              "_staticTrees": null,
+              "_uid": 0,
+              "_vnode": [Circular],
+              "_watcher": Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  6,
+                  7,
+                  2,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 6,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 7,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 2,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                "getter": [Function],
+                "id": 2,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": false,
+                "value": undefined,
+                "vm": [Circular],
+              },
+              "_watchers": Array [
+                Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    4,
+                    3,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 4,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 3,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "autoFakeAccount",
+                  "getter": [Function],
+                  "id": 1,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": true,
+                  "value": Object {},
+                  "vm": [Circular],
+                },
+                Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    6,
+                    7,
+                    2,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 6,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 7,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 2,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                  "getter": [Function],
+                  "id": 2,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": false,
+                  "value": undefined,
+                  "vm": [Circular],
+                },
+              ],
+              "accountValue": "",
+              "clickSendBtn": [Function],
+              "passwordValue": "",
+            },
+            "data": undefined,
+            "elm": <label>
+              密碼：
+            </label>,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": "label",
+            "text": undefined,
+          },
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": undefined,
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": VueComponent {
+              "$_mountingOptionsSlots": undefined,
+              "$_originalSlots": Object {},
+              "$attrs": Object {},
+              "$children": Array [],
+              "$createElement": [Function],
+              "$el": <div
+                id="app"
+              >
+                <div
+                  class="row"
+                >
+                  <label>
+                    帳號：
+                  </label>
+                  <input
+                    id="input-account"
+                    placeholder="請輸入假信箱..."
+                    type="text"
+                  />
+                </div>
+                <div
+                  class="row"
+                >
+                  <label>
+                    密碼：
+                  </label>
+                  <input
+                    id="input-password"
+                    placeholder="請輸入假密碼..."
+                    type="password"
+                  />
+                </div>
+                <div
+                  class="row"
+                >
+                  <button
+                    id="button-send"
+                  >
+                    按鈕
+                  </button>
+                </div>
+              </div>,
+              "$emit": [Function],
+              "$listeners": Object {},
+              "$options": Object {
+                "_Ctor": Object {
+                  "1": [Function],
+                },
+                "_base": [Function],
+                "_parentElm": null,
+                "_propKeys": Array [
+                  "buttonValue",
+                  "autoFakeAccount",
+                ],
+                "_refElm": null,
+                "beforeCreate": Array [
+                  [Function],
+                ],
+                "components": Object {
+                  "transition": Object {
+                    "render": [Function],
+                  },
+                  "transition-group": Object {
+                    "render": [Function],
+                  },
+                },
+                "data": [Function],
+                "directives": Object {},
+                "filters": Object {},
+                "methods": Object {
+                  "clickSendBtn": [Function],
+                },
+                "name": "Signin",
+                "props": Object {
+                  "autoFakeAccount": Object {
+                    "default": [Function],
+                    "type": [Function],
+                  },
+                  "buttonValue": Object {
+                    "default": "按鈕",
+                    "type": [Function],
+                  },
+                },
+                "render": [Function],
+                "staticRenderFns": Array [],
+                "watch": Object {},
+              },
+              "$parent": undefined,
+              "$refs": Object {},
+              "$root": [Circular],
+              "$scopedSlots": Object {},
+              "$slots": Object {},
+              "$vnode": undefined,
+              "__emitted": Object {},
+              "__emittedByOrder": Array [],
+              "_c": [Function],
+              "_data": Object {
+                "accountValue": "",
+                "passwordValue": "",
+              },
+              "_directInactive": false,
+              "_events": Object {},
+              "_hasHookEvent": false,
+              "_inactive": null,
+              "_isBeingDestroyed": false,
+              "_isDestroyed": false,
+              "_isMounted": true,
+              "_isVue": true,
+              "_props": Object {
+                "autoFakeAccount": Object {},
+                "buttonValue": "按鈕",
+              },
+              "_renderProxy": VueComponent {
+                "$_mountingOptionsSlots": undefined,
+                "$_originalSlots": Object {},
+                "$attrs": Object {},
+                "$children": Array [],
+                "$createElement": [Function],
+                "$el": <div
+                  id="app"
+                >
+                  <div
+                    class="row"
+                  >
+                    <label>
+                      帳號：
+                    </label>
+                    <input
+                      id="input-account"
+                      placeholder="請輸入假信箱..."
+                      type="text"
+                    />
+                  </div>
+                  <div
+                    class="row"
+                  >
+                    <label>
+                      密碼：
+                    </label>
+                    <input
+                      id="input-password"
+                      placeholder="請輸入假密碼..."
+                      type="password"
+                    />
+                  </div>
+                  <div
+                    class="row"
+                  >
+                    <button
+                      id="button-send"
+                    >
+                      按鈕
+                    </button>
+                  </div>
+                </div>,
+                "$emit": [Function],
+                "$listeners": Object {},
+                "$options": Object {
+                  "_Ctor": Object {
+                    "1": [Function],
+                  },
+                  "_base": [Function],
+                  "_parentElm": null,
+                  "_propKeys": Array [
+                    "buttonValue",
+                    "autoFakeAccount",
+                  ],
+                  "_refElm": null,
+                  "beforeCreate": Array [
+                    [Function],
+                  ],
+                  "components": Object {
+                    "transition": Object {
+                      "render": [Function],
+                    },
+                    "transition-group": Object {
+                      "render": [Function],
+                    },
+                  },
+                  "data": [Function],
+                  "directives": Object {},
+                  "filters": Object {},
+                  "methods": Object {
+                    "clickSendBtn": [Function],
+                  },
+                  "name": "Signin",
+                  "props": Object {
+                    "autoFakeAccount": Object {
+                      "default": [Function],
+                      "type": [Function],
+                    },
+                    "buttonValue": Object {
+                      "default": "按鈕",
+                      "type": [Function],
+                    },
+                  },
+                  "render": [Function],
+                  "staticRenderFns": Array [],
+                  "watch": Object {},
+                },
+                "$parent": undefined,
+                "$refs": Object {},
+                "$root": [Circular],
+                "$scopedSlots": Object {},
+                "$slots": Object {},
+                "$vnode": undefined,
+                "__emitted": Object {},
+                "__emittedByOrder": Array [],
+                "_c": [Function],
+                "_data": Object {
+                  "accountValue": "",
+                  "passwordValue": "",
+                },
+                "_directInactive": false,
+                "_events": Object {},
+                "_hasHookEvent": false,
+                "_inactive": null,
+                "_isBeingDestroyed": false,
+                "_isDestroyed": false,
+                "_isMounted": true,
+                "_isVue": true,
+                "_props": Object {
+                  "autoFakeAccount": Object {},
+                  "buttonValue": "按鈕",
+                },
+                "_renderProxy": [Circular],
+                "_self": [Circular],
+                "_staticTrees": null,
+                "_uid": 0,
+                "_vnode": [Circular],
+                "_watcher": Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    6,
+                    7,
+                    2,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 6,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 7,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 2,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                  "getter": [Function],
+                  "id": 2,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": false,
+                  "value": undefined,
+                  "vm": [Circular],
+                },
+                "_watchers": Array [
+                  Watcher {
+                    "active": true,
+                    "cb": [Function],
+                    "deep": false,
+                    "depIds": Set {
+                      4,
+                      3,
+                    },
+                    "deps": Array [
+                      Dep {
+                        "id": 4,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 3,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                    ],
+                    "dirty": false,
+                    "expression": "autoFakeAccount",
+                    "getter": [Function],
+                    "id": 1,
+                    "lazy": false,
+                    "newDepIds": Set {},
+                    "newDeps": Array [],
+                    "sync": false,
+                    "user": true,
+                    "value": Object {},
+                    "vm": [Circular],
+                  },
+                  Watcher {
+                    "active": true,
+                    "cb": [Function],
+                    "deep": false,
+                    "depIds": Set {
+                      6,
+                      7,
+                      2,
+                    },
+                    "deps": Array [
+                      Dep {
+                        "id": 6,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 7,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 2,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                    ],
+                    "dirty": false,
+                    "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                    "getter": [Function],
+                    "id": 2,
+                    "lazy": false,
+                    "newDepIds": Set {},
+                    "newDeps": Array [],
+                    "sync": false,
+                    "user": false,
+                    "value": undefined,
+                    "vm": [Circular],
+                  },
+                ],
+                "accountValue": "",
+                "clickSendBtn": [Function],
+                "passwordValue": "",
+              },
+              "_self": [Circular],
+              "_staticTrees": null,
+              "_uid": 0,
+              "_vnode": [Circular],
+              "_watcher": Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  6,
+                  7,
+                  2,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 6,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 7,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 2,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                "getter": [Function],
+                "id": 2,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": false,
+                "value": undefined,
+                "vm": [Circular],
+              },
+              "_watchers": Array [
+                Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    4,
+                    3,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 4,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 3,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "autoFakeAccount",
+                  "getter": [Function],
+                  "id": 1,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": true,
+                  "value": Object {},
+                  "vm": [Circular],
+                },
+                Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    6,
+                    7,
+                    2,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 6,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 7,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 2,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                  "getter": [Function],
+                  "id": 2,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": false,
+                  "value": undefined,
+                  "vm": [Circular],
+                },
+              ],
+              "accountValue": "",
+              "clickSendBtn": [Function],
+              "passwordValue": "",
+            },
+            "data": Object {
+              "attrs": Object {
+                "id": "input-password",
+                "placeholder": "請輸入假密碼...",
+                "type": "password",
+              },
+              "directives": Array [
+                Object {
+                  "def": Object {
+                    "componentUpdated": [Function],
+                    "inserted": [Function],
+                  },
+                  "expression": "passwordValue",
+                  "modifiers": Object {},
+                  "name": "model",
+                  "rawName": "v-model",
+                  "value": "",
+                },
+              ],
+              "domProps": Object {
+                "value": "",
+              },
+              "hook": Object {
+                "insert": [Function],
+              },
+              "on": Object {
+                "input": [Function],
+              },
+            },
+            "elm": <input
+              id="input-password"
+              placeholder="請輸入假密碼..."
+              type="password"
+            />,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": "input",
+            "text": undefined,
+          },
+        ],
+        "componentInstance": undefined,
+        "componentOptions": undefined,
+        "context": VueComponent {
+          "$_mountingOptionsSlots": undefined,
+          "$_originalSlots": Object {},
+          "$attrs": Object {},
+          "$children": Array [],
+          "$createElement": [Function],
+          "$el": <div
+            id="app"
+          >
+            <div
+              class="row"
+            >
+              <label>
+                帳號：
+              </label>
+              <input
+                id="input-account"
+                placeholder="請輸入假信箱..."
+                type="text"
+              />
+            </div>
+            <div
+              class="row"
+            >
+              <label>
+                密碼：
+              </label>
+              <input
+                id="input-password"
+                placeholder="請輸入假密碼..."
+                type="password"
+              />
+            </div>
+            <div
+              class="row"
+            >
+              <button
+                id="button-send"
+              >
+                按鈕
+              </button>
+            </div>
+          </div>,
+          "$emit": [Function],
+          "$listeners": Object {},
+          "$options": Object {
+            "_Ctor": Object {
+              "1": [Function],
+            },
+            "_base": [Function],
+            "_parentElm": null,
+            "_propKeys": Array [
+              "buttonValue",
+              "autoFakeAccount",
+            ],
+            "_refElm": null,
+            "beforeCreate": Array [
+              [Function],
+            ],
+            "components": Object {
+              "transition": Object {
+                "render": [Function],
+              },
+              "transition-group": Object {
+                "render": [Function],
+              },
+            },
+            "data": [Function],
+            "directives": Object {},
+            "filters": Object {},
+            "methods": Object {
+              "clickSendBtn": [Function],
+            },
+            "name": "Signin",
+            "props": Object {
+              "autoFakeAccount": Object {
+                "default": [Function],
+                "type": [Function],
+              },
+              "buttonValue": Object {
+                "default": "按鈕",
+                "type": [Function],
+              },
+            },
+            "render": [Function],
+            "staticRenderFns": Array [],
+            "watch": Object {},
+          },
+          "$parent": undefined,
+          "$refs": Object {},
+          "$root": [Circular],
+          "$scopedSlots": Object {},
+          "$slots": Object {},
+          "$vnode": undefined,
+          "__emitted": Object {},
+          "__emittedByOrder": Array [],
+          "_c": [Function],
+          "_data": Object {
+            "accountValue": "",
+            "passwordValue": "",
+          },
+          "_directInactive": false,
+          "_events": Object {},
+          "_hasHookEvent": false,
+          "_inactive": null,
+          "_isBeingDestroyed": false,
+          "_isDestroyed": false,
+          "_isMounted": true,
+          "_isVue": true,
+          "_props": Object {
+            "autoFakeAccount": Object {},
+            "buttonValue": "按鈕",
+          },
+          "_renderProxy": VueComponent {
+            "$_mountingOptionsSlots": undefined,
+            "$_originalSlots": Object {},
+            "$attrs": Object {},
+            "$children": Array [],
+            "$createElement": [Function],
+            "$el": <div
+              id="app"
+            >
+              <div
+                class="row"
+              >
+                <label>
+                  帳號：
+                </label>
+                <input
+                  id="input-account"
+                  placeholder="請輸入假信箱..."
+                  type="text"
+                />
+              </div>
+              <div
+                class="row"
+              >
+                <label>
+                  密碼：
+                </label>
+                <input
+                  id="input-password"
+                  placeholder="請輸入假密碼..."
+                  type="password"
+                />
+              </div>
+              <div
+                class="row"
+              >
+                <button
+                  id="button-send"
+                >
+                  按鈕
+                </button>
+              </div>
+            </div>,
+            "$emit": [Function],
+            "$listeners": Object {},
+            "$options": Object {
+              "_Ctor": Object {
+                "1": [Function],
+              },
+              "_base": [Function],
+              "_parentElm": null,
+              "_propKeys": Array [
+                "buttonValue",
+                "autoFakeAccount",
+              ],
+              "_refElm": null,
+              "beforeCreate": Array [
+                [Function],
+              ],
+              "components": Object {
+                "transition": Object {
+                  "render": [Function],
+                },
+                "transition-group": Object {
+                  "render": [Function],
+                },
+              },
+              "data": [Function],
+              "directives": Object {},
+              "filters": Object {},
+              "methods": Object {
+                "clickSendBtn": [Function],
+              },
+              "name": "Signin",
+              "props": Object {
+                "autoFakeAccount": Object {
+                  "default": [Function],
+                  "type": [Function],
+                },
+                "buttonValue": Object {
+                  "default": "按鈕",
+                  "type": [Function],
+                },
+              },
+              "render": [Function],
+              "staticRenderFns": Array [],
+              "watch": Object {},
+            },
+            "$parent": undefined,
+            "$refs": Object {},
+            "$root": [Circular],
+            "$scopedSlots": Object {},
+            "$slots": Object {},
+            "$vnode": undefined,
+            "__emitted": Object {},
+            "__emittedByOrder": Array [],
+            "_c": [Function],
+            "_data": Object {
+              "accountValue": "",
+              "passwordValue": "",
+            },
+            "_directInactive": false,
+            "_events": Object {},
+            "_hasHookEvent": false,
+            "_inactive": null,
+            "_isBeingDestroyed": false,
+            "_isDestroyed": false,
+            "_isMounted": true,
+            "_isVue": true,
+            "_props": Object {
+              "autoFakeAccount": Object {},
+              "buttonValue": "按鈕",
+            },
+            "_renderProxy": [Circular],
+            "_self": [Circular],
+            "_staticTrees": null,
+            "_uid": 0,
+            "_vnode": [Circular],
+            "_watcher": Watcher {
+              "active": true,
+              "cb": [Function],
+              "deep": false,
+              "depIds": Set {
+                6,
+                7,
+                2,
+              },
+              "deps": Array [
+                Dep {
+                  "id": 6,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 7,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 2,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+              ],
+              "dirty": false,
+              "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+              "getter": [Function],
+              "id": 2,
+              "lazy": false,
+              "newDepIds": Set {},
+              "newDeps": Array [],
+              "sync": false,
+              "user": false,
+              "value": undefined,
+              "vm": [Circular],
+            },
+            "_watchers": Array [
+              Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  4,
+                  3,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 4,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 3,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "autoFakeAccount",
+                "getter": [Function],
+                "id": 1,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": true,
+                "value": Object {},
+                "vm": [Circular],
+              },
+              Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  6,
+                  7,
+                  2,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 6,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 7,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 2,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                "getter": [Function],
+                "id": 2,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": false,
+                "value": undefined,
+                "vm": [Circular],
+              },
+            ],
+            "accountValue": "",
+            "clickSendBtn": [Function],
+            "passwordValue": "",
+          },
+          "_self": [Circular],
+          "_staticTrees": null,
+          "_uid": 0,
+          "_vnode": [Circular],
+          "_watcher": Watcher {
+            "active": true,
+            "cb": [Function],
+            "deep": false,
+            "depIds": Set {
+              6,
+              7,
+              2,
+            },
+            "deps": Array [
+              Dep {
+                "id": 6,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+              Dep {
+                "id": 7,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+              Dep {
+                "id": 2,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+            ],
+            "dirty": false,
+            "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+            "getter": [Function],
+            "id": 2,
+            "lazy": false,
+            "newDepIds": Set {},
+            "newDeps": Array [],
+            "sync": false,
+            "user": false,
+            "value": undefined,
+            "vm": [Circular],
+          },
+          "_watchers": Array [
+            Watcher {
+              "active": true,
+              "cb": [Function],
+              "deep": false,
+              "depIds": Set {
+                4,
+                3,
+              },
+              "deps": Array [
+                Dep {
+                  "id": 4,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 3,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+              ],
+              "dirty": false,
+              "expression": "autoFakeAccount",
+              "getter": [Function],
+              "id": 1,
+              "lazy": false,
+              "newDepIds": Set {},
+              "newDeps": Array [],
+              "sync": false,
+              "user": true,
+              "value": Object {},
+              "vm": [Circular],
+            },
+            Watcher {
+              "active": true,
+              "cb": [Function],
+              "deep": false,
+              "depIds": Set {
+                6,
+                7,
+                2,
+              },
+              "deps": Array [
+                Dep {
+                  "id": 6,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 7,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 2,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+              ],
+              "dirty": false,
+              "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+              "getter": [Function],
+              "id": 2,
+              "lazy": false,
+              "newDepIds": Set {},
+              "newDeps": Array [],
+              "sync": false,
+              "user": false,
+              "value": undefined,
+              "vm": [Circular],
+            },
+          ],
+          "accountValue": "",
+          "clickSendBtn": [Function],
+          "passwordValue": "",
+        },
+        "data": Object {
+          "staticClass": "row",
+        },
+        "elm": <div
+          class="row"
+        >
+          <label>
+            密碼：
+          </label>
+          <input
+            id="input-password"
+            placeholder="請輸入假密碼..."
+            type="password"
+          />
+        </div>,
+        "fnContext": undefined,
+        "fnOptions": undefined,
+        "fnScopeId": undefined,
+        "isAsyncPlaceholder": false,
+        "isCloned": false,
+        "isComment": false,
+        "isOnce": false,
+        "isRootInsert": false,
+        "isStatic": false,
+        "key": undefined,
+        "ns": undefined,
+        "parent": undefined,
+        "raw": false,
+        "tag": "div",
+        "text": undefined,
+      },
+      VNode {
+        "asyncFactory": undefined,
+        "asyncMeta": undefined,
+        "children": Array [
+          VNode {
+            "asyncFactory": undefined,
+            "asyncMeta": undefined,
+            "children": Array [
+              VNode {
+                "asyncFactory": undefined,
+                "asyncMeta": undefined,
+                "children": undefined,
+                "componentInstance": undefined,
+                "componentOptions": undefined,
+                "context": undefined,
+                "data": undefined,
+                "elm": 按鈕,
+                "fnContext": undefined,
+                "fnOptions": undefined,
+                "fnScopeId": undefined,
+                "isAsyncPlaceholder": false,
+                "isCloned": false,
+                "isComment": false,
+                "isOnce": false,
+                "isRootInsert": false,
+                "isStatic": false,
+                "key": undefined,
+                "ns": undefined,
+                "parent": undefined,
+                "raw": false,
+                "tag": undefined,
+                "text": "按鈕",
+              },
+            ],
+            "componentInstance": undefined,
+            "componentOptions": undefined,
+            "context": VueComponent {
+              "$_mountingOptionsSlots": undefined,
+              "$_originalSlots": Object {},
+              "$attrs": Object {},
+              "$children": Array [],
+              "$createElement": [Function],
+              "$el": <div
+                id="app"
+              >
+                <div
+                  class="row"
+                >
+                  <label>
+                    帳號：
+                  </label>
+                  <input
+                    id="input-account"
+                    placeholder="請輸入假信箱..."
+                    type="text"
+                  />
+                </div>
+                <div
+                  class="row"
+                >
+                  <label>
+                    密碼：
+                  </label>
+                  <input
+                    id="input-password"
+                    placeholder="請輸入假密碼..."
+                    type="password"
+                  />
+                </div>
+                <div
+                  class="row"
+                >
+                  <button
+                    id="button-send"
+                  >
+                    按鈕
+                  </button>
+                </div>
+              </div>,
+              "$emit": [Function],
+              "$listeners": Object {},
+              "$options": Object {
+                "_Ctor": Object {
+                  "1": [Function],
+                },
+                "_base": [Function],
+                "_parentElm": null,
+                "_propKeys": Array [
+                  "buttonValue",
+                  "autoFakeAccount",
+                ],
+                "_refElm": null,
+                "beforeCreate": Array [
+                  [Function],
+                ],
+                "components": Object {
+                  "transition": Object {
+                    "render": [Function],
+                  },
+                  "transition-group": Object {
+                    "render": [Function],
+                  },
+                },
+                "data": [Function],
+                "directives": Object {},
+                "filters": Object {},
+                "methods": Object {
+                  "clickSendBtn": [Function],
+                },
+                "name": "Signin",
+                "props": Object {
+                  "autoFakeAccount": Object {
+                    "default": [Function],
+                    "type": [Function],
+                  },
+                  "buttonValue": Object {
+                    "default": "按鈕",
+                    "type": [Function],
+                  },
+                },
+                "render": [Function],
+                "staticRenderFns": Array [],
+                "watch": Object {},
+              },
+              "$parent": undefined,
+              "$refs": Object {},
+              "$root": [Circular],
+              "$scopedSlots": Object {},
+              "$slots": Object {},
+              "$vnode": undefined,
+              "__emitted": Object {},
+              "__emittedByOrder": Array [],
+              "_c": [Function],
+              "_data": Object {
+                "accountValue": "",
+                "passwordValue": "",
+              },
+              "_directInactive": false,
+              "_events": Object {},
+              "_hasHookEvent": false,
+              "_inactive": null,
+              "_isBeingDestroyed": false,
+              "_isDestroyed": false,
+              "_isMounted": true,
+              "_isVue": true,
+              "_props": Object {
+                "autoFakeAccount": Object {},
+                "buttonValue": "按鈕",
+              },
+              "_renderProxy": VueComponent {
+                "$_mountingOptionsSlots": undefined,
+                "$_originalSlots": Object {},
+                "$attrs": Object {},
+                "$children": Array [],
+                "$createElement": [Function],
+                "$el": <div
+                  id="app"
+                >
+                  <div
+                    class="row"
+                  >
+                    <label>
+                      帳號：
+                    </label>
+                    <input
+                      id="input-account"
+                      placeholder="請輸入假信箱..."
+                      type="text"
+                    />
+                  </div>
+                  <div
+                    class="row"
+                  >
+                    <label>
+                      密碼：
+                    </label>
+                    <input
+                      id="input-password"
+                      placeholder="請輸入假密碼..."
+                      type="password"
+                    />
+                  </div>
+                  <div
+                    class="row"
+                  >
+                    <button
+                      id="button-send"
+                    >
+                      按鈕
+                    </button>
+                  </div>
+                </div>,
+                "$emit": [Function],
+                "$listeners": Object {},
+                "$options": Object {
+                  "_Ctor": Object {
+                    "1": [Function],
+                  },
+                  "_base": [Function],
+                  "_parentElm": null,
+                  "_propKeys": Array [
+                    "buttonValue",
+                    "autoFakeAccount",
+                  ],
+                  "_refElm": null,
+                  "beforeCreate": Array [
+                    [Function],
+                  ],
+                  "components": Object {
+                    "transition": Object {
+                      "render": [Function],
+                    },
+                    "transition-group": Object {
+                      "render": [Function],
+                    },
+                  },
+                  "data": [Function],
+                  "directives": Object {},
+                  "filters": Object {},
+                  "methods": Object {
+                    "clickSendBtn": [Function],
+                  },
+                  "name": "Signin",
+                  "props": Object {
+                    "autoFakeAccount": Object {
+                      "default": [Function],
+                      "type": [Function],
+                    },
+                    "buttonValue": Object {
+                      "default": "按鈕",
+                      "type": [Function],
+                    },
+                  },
+                  "render": [Function],
+                  "staticRenderFns": Array [],
+                  "watch": Object {},
+                },
+                "$parent": undefined,
+                "$refs": Object {},
+                "$root": [Circular],
+                "$scopedSlots": Object {},
+                "$slots": Object {},
+                "$vnode": undefined,
+                "__emitted": Object {},
+                "__emittedByOrder": Array [],
+                "_c": [Function],
+                "_data": Object {
+                  "accountValue": "",
+                  "passwordValue": "",
+                },
+                "_directInactive": false,
+                "_events": Object {},
+                "_hasHookEvent": false,
+                "_inactive": null,
+                "_isBeingDestroyed": false,
+                "_isDestroyed": false,
+                "_isMounted": true,
+                "_isVue": true,
+                "_props": Object {
+                  "autoFakeAccount": Object {},
+                  "buttonValue": "按鈕",
+                },
+                "_renderProxy": [Circular],
+                "_self": [Circular],
+                "_staticTrees": null,
+                "_uid": 0,
+                "_vnode": [Circular],
+                "_watcher": Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    6,
+                    7,
+                    2,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 6,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 7,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 2,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                  "getter": [Function],
+                  "id": 2,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": false,
+                  "value": undefined,
+                  "vm": [Circular],
+                },
+                "_watchers": Array [
+                  Watcher {
+                    "active": true,
+                    "cb": [Function],
+                    "deep": false,
+                    "depIds": Set {
+                      4,
+                      3,
+                    },
+                    "deps": Array [
+                      Dep {
+                        "id": 4,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 3,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                    ],
+                    "dirty": false,
+                    "expression": "autoFakeAccount",
+                    "getter": [Function],
+                    "id": 1,
+                    "lazy": false,
+                    "newDepIds": Set {},
+                    "newDeps": Array [],
+                    "sync": false,
+                    "user": true,
+                    "value": Object {},
+                    "vm": [Circular],
+                  },
+                  Watcher {
+                    "active": true,
+                    "cb": [Function],
+                    "deep": false,
+                    "depIds": Set {
+                      6,
+                      7,
+                      2,
+                    },
+                    "deps": Array [
+                      Dep {
+                        "id": 6,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 7,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                      Dep {
+                        "id": 2,
+                        "subs": Array [
+                          [Circular],
+                        ],
+                      },
+                    ],
+                    "dirty": false,
+                    "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                    "getter": [Function],
+                    "id": 2,
+                    "lazy": false,
+                    "newDepIds": Set {},
+                    "newDeps": Array [],
+                    "sync": false,
+                    "user": false,
+                    "value": undefined,
+                    "vm": [Circular],
+                  },
+                ],
+                "accountValue": "",
+                "clickSendBtn": [Function],
+                "passwordValue": "",
+              },
+              "_self": [Circular],
+              "_staticTrees": null,
+              "_uid": 0,
+              "_vnode": [Circular],
+              "_watcher": Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  6,
+                  7,
+                  2,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 6,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 7,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 2,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                "getter": [Function],
+                "id": 2,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": false,
+                "value": undefined,
+                "vm": [Circular],
+              },
+              "_watchers": Array [
+                Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    4,
+                    3,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 4,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 3,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "autoFakeAccount",
+                  "getter": [Function],
+                  "id": 1,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": true,
+                  "value": Object {},
+                  "vm": [Circular],
+                },
+                Watcher {
+                  "active": true,
+                  "cb": [Function],
+                  "deep": false,
+                  "depIds": Set {
+                    6,
+                    7,
+                    2,
+                  },
+                  "deps": Array [
+                    Dep {
+                      "id": 6,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 7,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                    Dep {
+                      "id": 2,
+                      "subs": Array [
+                        [Circular],
+                      ],
+                    },
+                  ],
+                  "dirty": false,
+                  "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                  "getter": [Function],
+                  "id": 2,
+                  "lazy": false,
+                  "newDepIds": Set {},
+                  "newDeps": Array [],
+                  "sync": false,
+                  "user": false,
+                  "value": undefined,
+                  "vm": [Circular],
+                },
+              ],
+              "accountValue": "",
+              "clickSendBtn": [Function],
+              "passwordValue": "",
+            },
+            "data": Object {
+              "attrs": Object {
+                "id": "button-send",
+              },
+              "on": Object {
+                "click": [Function],
+              },
+            },
+            "elm": <button
+              id="button-send"
+            >
+              按鈕
+            </button>,
+            "fnContext": undefined,
+            "fnOptions": undefined,
+            "fnScopeId": undefined,
+            "isAsyncPlaceholder": false,
+            "isCloned": false,
+            "isComment": false,
+            "isOnce": false,
+            "isRootInsert": false,
+            "isStatic": false,
+            "key": undefined,
+            "ns": undefined,
+            "parent": undefined,
+            "raw": false,
+            "tag": "button",
+            "text": undefined,
+          },
+        ],
+        "componentInstance": undefined,
+        "componentOptions": undefined,
+        "context": VueComponent {
+          "$_mountingOptionsSlots": undefined,
+          "$_originalSlots": Object {},
+          "$attrs": Object {},
+          "$children": Array [],
+          "$createElement": [Function],
+          "$el": <div
+            id="app"
+          >
+            <div
+              class="row"
+            >
+              <label>
+                帳號：
+              </label>
+              <input
+                id="input-account"
+                placeholder="請輸入假信箱..."
+                type="text"
+              />
+            </div>
+            <div
+              class="row"
+            >
+              <label>
+                密碼：
+              </label>
+              <input
+                id="input-password"
+                placeholder="請輸入假密碼..."
+                type="password"
+              />
+            </div>
+            <div
+              class="row"
+            >
+              <button
+                id="button-send"
+              >
+                按鈕
+              </button>
+            </div>
+          </div>,
+          "$emit": [Function],
+          "$listeners": Object {},
+          "$options": Object {
+            "_Ctor": Object {
+              "1": [Function],
+            },
+            "_base": [Function],
+            "_parentElm": null,
+            "_propKeys": Array [
+              "buttonValue",
+              "autoFakeAccount",
+            ],
+            "_refElm": null,
+            "beforeCreate": Array [
+              [Function],
+            ],
+            "components": Object {
+              "transition": Object {
+                "render": [Function],
+              },
+              "transition-group": Object {
+                "render": [Function],
+              },
+            },
+            "data": [Function],
+            "directives": Object {},
+            "filters": Object {},
+            "methods": Object {
+              "clickSendBtn": [Function],
+            },
+            "name": "Signin",
+            "props": Object {
+              "autoFakeAccount": Object {
+                "default": [Function],
+                "type": [Function],
+              },
+              "buttonValue": Object {
+                "default": "按鈕",
+                "type": [Function],
+              },
+            },
+            "render": [Function],
+            "staticRenderFns": Array [],
+            "watch": Object {},
+          },
+          "$parent": undefined,
+          "$refs": Object {},
+          "$root": [Circular],
+          "$scopedSlots": Object {},
+          "$slots": Object {},
+          "$vnode": undefined,
+          "__emitted": Object {},
+          "__emittedByOrder": Array [],
+          "_c": [Function],
+          "_data": Object {
+            "accountValue": "",
+            "passwordValue": "",
+          },
+          "_directInactive": false,
+          "_events": Object {},
+          "_hasHookEvent": false,
+          "_inactive": null,
+          "_isBeingDestroyed": false,
+          "_isDestroyed": false,
+          "_isMounted": true,
+          "_isVue": true,
+          "_props": Object {
+            "autoFakeAccount": Object {},
+            "buttonValue": "按鈕",
+          },
+          "_renderProxy": VueComponent {
+            "$_mountingOptionsSlots": undefined,
+            "$_originalSlots": Object {},
+            "$attrs": Object {},
+            "$children": Array [],
+            "$createElement": [Function],
+            "$el": <div
+              id="app"
+            >
+              <div
+                class="row"
+              >
+                <label>
+                  帳號：
+                </label>
+                <input
+                  id="input-account"
+                  placeholder="請輸入假信箱..."
+                  type="text"
+                />
+              </div>
+              <div
+                class="row"
+              >
+                <label>
+                  密碼：
+                </label>
+                <input
+                  id="input-password"
+                  placeholder="請輸入假密碼..."
+                  type="password"
+                />
+              </div>
+              <div
+                class="row"
+              >
+                <button
+                  id="button-send"
+                >
+                  按鈕
+                </button>
+              </div>
+            </div>,
+            "$emit": [Function],
+            "$listeners": Object {},
+            "$options": Object {
+              "_Ctor": Object {
+                "1": [Function],
+              },
+              "_base": [Function],
+              "_parentElm": null,
+              "_propKeys": Array [
+                "buttonValue",
+                "autoFakeAccount",
+              ],
+              "_refElm": null,
+              "beforeCreate": Array [
+                [Function],
+              ],
+              "components": Object {
+                "transition": Object {
+                  "render": [Function],
+                },
+                "transition-group": Object {
+                  "render": [Function],
+                },
+              },
+              "data": [Function],
+              "directives": Object {},
+              "filters": Object {},
+              "methods": Object {
+                "clickSendBtn": [Function],
+              },
+              "name": "Signin",
+              "props": Object {
+                "autoFakeAccount": Object {
+                  "default": [Function],
+                  "type": [Function],
+                },
+                "buttonValue": Object {
+                  "default": "按鈕",
+                  "type": [Function],
+                },
+              },
+              "render": [Function],
+              "staticRenderFns": Array [],
+              "watch": Object {},
+            },
+            "$parent": undefined,
+            "$refs": Object {},
+            "$root": [Circular],
+            "$scopedSlots": Object {},
+            "$slots": Object {},
+            "$vnode": undefined,
+            "__emitted": Object {},
+            "__emittedByOrder": Array [],
+            "_c": [Function],
+            "_data": Object {
+              "accountValue": "",
+              "passwordValue": "",
+            },
+            "_directInactive": false,
+            "_events": Object {},
+            "_hasHookEvent": false,
+            "_inactive": null,
+            "_isBeingDestroyed": false,
+            "_isDestroyed": false,
+            "_isMounted": true,
+            "_isVue": true,
+            "_props": Object {
+              "autoFakeAccount": Object {},
+              "buttonValue": "按鈕",
+            },
+            "_renderProxy": [Circular],
+            "_self": [Circular],
+            "_staticTrees": null,
+            "_uid": 0,
+            "_vnode": [Circular],
+            "_watcher": Watcher {
+              "active": true,
+              "cb": [Function],
+              "deep": false,
+              "depIds": Set {
+                6,
+                7,
+                2,
+              },
+              "deps": Array [
+                Dep {
+                  "id": 6,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 7,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 2,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+              ],
+              "dirty": false,
+              "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+              "getter": [Function],
+              "id": 2,
+              "lazy": false,
+              "newDepIds": Set {},
+              "newDeps": Array [],
+              "sync": false,
+              "user": false,
+              "value": undefined,
+              "vm": [Circular],
+            },
+            "_watchers": Array [
+              Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  4,
+                  3,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 4,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 3,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "autoFakeAccount",
+                "getter": [Function],
+                "id": 1,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": true,
+                "value": Object {},
+                "vm": [Circular],
+              },
+              Watcher {
+                "active": true,
+                "cb": [Function],
+                "deep": false,
+                "depIds": Set {
+                  6,
+                  7,
+                  2,
+                },
+                "deps": Array [
+                  Dep {
+                    "id": 6,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 7,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                  Dep {
+                    "id": 2,
+                    "subs": Array [
+                      [Circular],
+                    ],
+                  },
+                ],
+                "dirty": false,
+                "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+                "getter": [Function],
+                "id": 2,
+                "lazy": false,
+                "newDepIds": Set {},
+                "newDeps": Array [],
+                "sync": false,
+                "user": false,
+                "value": undefined,
+                "vm": [Circular],
+              },
+            ],
+            "accountValue": "",
+            "clickSendBtn": [Function],
+            "passwordValue": "",
+          },
+          "_self": [Circular],
+          "_staticTrees": null,
+          "_uid": 0,
+          "_vnode": [Circular],
+          "_watcher": Watcher {
+            "active": true,
+            "cb": [Function],
+            "deep": false,
+            "depIds": Set {
+              6,
+              7,
+              2,
+            },
+            "deps": Array [
+              Dep {
+                "id": 6,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+              Dep {
+                "id": 7,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+              Dep {
+                "id": 2,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+            ],
+            "dirty": false,
+            "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+            "getter": [Function],
+            "id": 2,
+            "lazy": false,
+            "newDepIds": Set {},
+            "newDeps": Array [],
+            "sync": false,
+            "user": false,
+            "value": undefined,
+            "vm": [Circular],
+          },
+          "_watchers": Array [
+            Watcher {
+              "active": true,
+              "cb": [Function],
+              "deep": false,
+              "depIds": Set {
+                4,
+                3,
+              },
+              "deps": Array [
+                Dep {
+                  "id": 4,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 3,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+              ],
+              "dirty": false,
+              "expression": "autoFakeAccount",
+              "getter": [Function],
+              "id": 1,
+              "lazy": false,
+              "newDepIds": Set {},
+              "newDeps": Array [],
+              "sync": false,
+              "user": true,
+              "value": Object {},
+              "vm": [Circular],
+            },
+            Watcher {
+              "active": true,
+              "cb": [Function],
+              "deep": false,
+              "depIds": Set {
+                6,
+                7,
+                2,
+              },
+              "deps": Array [
+                Dep {
+                  "id": 6,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 7,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+                Dep {
+                  "id": 2,
+                  "subs": Array [
+                    [Circular],
+                  ],
+                },
+              ],
+              "dirty": false,
+              "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+              "getter": [Function],
+              "id": 2,
+              "lazy": false,
+              "newDepIds": Set {},
+              "newDeps": Array [],
+              "sync": false,
+              "user": false,
+              "value": undefined,
+              "vm": [Circular],
+            },
+          ],
+          "accountValue": "",
+          "clickSendBtn": [Function],
+          "passwordValue": "",
+        },
+        "data": Object {
+          "staticClass": "row",
+        },
+        "elm": <div
+          class="row"
+        >
+          <button
+            id="button-send"
+          >
+            按鈕
+          </button>
+        </div>,
+        "fnContext": undefined,
+        "fnOptions": undefined,
+        "fnScopeId": undefined,
+        "isAsyncPlaceholder": false,
+        "isCloned": false,
+        "isComment": false,
+        "isOnce": false,
+        "isRootInsert": false,
+        "isStatic": false,
+        "key": undefined,
+        "ns": undefined,
+        "parent": undefined,
+        "raw": false,
+        "tag": "div",
+        "text": undefined,
+      },
+    ],
+    "componentInstance": undefined,
+    "componentOptions": undefined,
+    "context": VueComponent {
+      "$_mountingOptionsSlots": undefined,
+      "$_originalSlots": Object {},
+      "$attrs": Object {},
+      "$children": Array [],
+      "$createElement": [Function],
+      "$el": <div
+        id="app"
+      >
+        <div
+          class="row"
+        >
+          <label>
+            帳號：
+          </label>
+          <input
+            id="input-account"
+            placeholder="請輸入假信箱..."
+            type="text"
+          />
+        </div>
+        <div
+          class="row"
+        >
+          <label>
+            密碼：
+          </label>
+          <input
+            id="input-password"
+            placeholder="請輸入假密碼..."
+            type="password"
+          />
+        </div>
+        <div
+          class="row"
+        >
+          <button
+            id="button-send"
+          >
+            按鈕
+          </button>
+        </div>
+      </div>,
+      "$emit": [Function],
+      "$listeners": Object {},
+      "$options": Object {
+        "_Ctor": Object {
+          "1": [Function],
+        },
+        "_base": [Function],
+        "_parentElm": null,
+        "_propKeys": Array [
+          "buttonValue",
+          "autoFakeAccount",
+        ],
+        "_refElm": null,
+        "beforeCreate": Array [
+          [Function],
+        ],
+        "components": Object {
+          "transition": Object {
+            "render": [Function],
+          },
+          "transition-group": Object {
+            "render": [Function],
+          },
+        },
+        "data": [Function],
+        "directives": Object {},
+        "filters": Object {},
+        "methods": Object {
+          "clickSendBtn": [Function],
+        },
+        "name": "Signin",
+        "props": Object {
+          "autoFakeAccount": Object {
+            "default": [Function],
+            "type": [Function],
+          },
+          "buttonValue": Object {
+            "default": "按鈕",
+            "type": [Function],
+          },
+        },
+        "render": [Function],
+        "staticRenderFns": Array [],
+        "watch": Object {},
+      },
+      "$parent": undefined,
+      "$refs": Object {},
+      "$root": [Circular],
+      "$scopedSlots": Object {},
+      "$slots": Object {},
+      "$vnode": undefined,
+      "__emitted": Object {},
+      "__emittedByOrder": Array [],
+      "_c": [Function],
+      "_data": Object {
+        "accountValue": "",
+        "passwordValue": "",
+      },
+      "_directInactive": false,
+      "_events": Object {},
+      "_hasHookEvent": false,
+      "_inactive": null,
+      "_isBeingDestroyed": false,
+      "_isDestroyed": false,
+      "_isMounted": true,
+      "_isVue": true,
+      "_props": Object {
+        "autoFakeAccount": Object {},
+        "buttonValue": "按鈕",
+      },
+      "_renderProxy": VueComponent {
+        "$_mountingOptionsSlots": undefined,
+        "$_originalSlots": Object {},
+        "$attrs": Object {},
+        "$children": Array [],
+        "$createElement": [Function],
+        "$el": <div
+          id="app"
+        >
+          <div
+            class="row"
+          >
+            <label>
+              帳號：
+            </label>
+            <input
+              id="input-account"
+              placeholder="請輸入假信箱..."
+              type="text"
+            />
+          </div>
+          <div
+            class="row"
+          >
+            <label>
+              密碼：
+            </label>
+            <input
+              id="input-password"
+              placeholder="請輸入假密碼..."
+              type="password"
+            />
+          </div>
+          <div
+            class="row"
+          >
+            <button
+              id="button-send"
+            >
+              按鈕
+            </button>
+          </div>
+        </div>,
+        "$emit": [Function],
+        "$listeners": Object {},
+        "$options": Object {
+          "_Ctor": Object {
+            "1": [Function],
+          },
+          "_base": [Function],
+          "_parentElm": null,
+          "_propKeys": Array [
+            "buttonValue",
+            "autoFakeAccount",
+          ],
+          "_refElm": null,
+          "beforeCreate": Array [
+            [Function],
+          ],
+          "components": Object {
+            "transition": Object {
+              "render": [Function],
+            },
+            "transition-group": Object {
+              "render": [Function],
+            },
+          },
+          "data": [Function],
+          "directives": Object {},
+          "filters": Object {},
+          "methods": Object {
+            "clickSendBtn": [Function],
+          },
+          "name": "Signin",
+          "props": Object {
+            "autoFakeAccount": Object {
+              "default": [Function],
+              "type": [Function],
+            },
+            "buttonValue": Object {
+              "default": "按鈕",
+              "type": [Function],
+            },
+          },
+          "render": [Function],
+          "staticRenderFns": Array [],
+          "watch": Object {},
+        },
+        "$parent": undefined,
+        "$refs": Object {},
+        "$root": [Circular],
+        "$scopedSlots": Object {},
+        "$slots": Object {},
+        "$vnode": undefined,
+        "__emitted": Object {},
+        "__emittedByOrder": Array [],
+        "_c": [Function],
+        "_data": Object {
+          "accountValue": "",
+          "passwordValue": "",
+        },
+        "_directInactive": false,
+        "_events": Object {},
+        "_hasHookEvent": false,
+        "_inactive": null,
+        "_isBeingDestroyed": false,
+        "_isDestroyed": false,
+        "_isMounted": true,
+        "_isVue": true,
+        "_props": Object {
+          "autoFakeAccount": Object {},
+          "buttonValue": "按鈕",
+        },
+        "_renderProxy": [Circular],
+        "_self": [Circular],
+        "_staticTrees": null,
+        "_uid": 0,
+        "_vnode": [Circular],
+        "_watcher": Watcher {
+          "active": true,
+          "cb": [Function],
+          "deep": false,
+          "depIds": Set {
+            6,
+            7,
+            2,
+          },
+          "deps": Array [
+            Dep {
+              "id": 6,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+            Dep {
+              "id": 7,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+            Dep {
+              "id": 2,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+          ],
+          "dirty": false,
+          "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+          "getter": [Function],
+          "id": 2,
+          "lazy": false,
+          "newDepIds": Set {},
+          "newDeps": Array [],
+          "sync": false,
+          "user": false,
+          "value": undefined,
+          "vm": [Circular],
+        },
+        "_watchers": Array [
+          Watcher {
+            "active": true,
+            "cb": [Function],
+            "deep": false,
+            "depIds": Set {
+              4,
+              3,
+            },
+            "deps": Array [
+              Dep {
+                "id": 4,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+              Dep {
+                "id": 3,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+            ],
+            "dirty": false,
+            "expression": "autoFakeAccount",
+            "getter": [Function],
+            "id": 1,
+            "lazy": false,
+            "newDepIds": Set {},
+            "newDeps": Array [],
+            "sync": false,
+            "user": true,
+            "value": Object {},
+            "vm": [Circular],
+          },
+          Watcher {
+            "active": true,
+            "cb": [Function],
+            "deep": false,
+            "depIds": Set {
+              6,
+              7,
+              2,
+            },
+            "deps": Array [
+              Dep {
+                "id": 6,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+              Dep {
+                "id": 7,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+              Dep {
+                "id": 2,
+                "subs": Array [
+                  [Circular],
+                ],
+              },
+            ],
+            "dirty": false,
+            "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+            "getter": [Function],
+            "id": 2,
+            "lazy": false,
+            "newDepIds": Set {},
+            "newDeps": Array [],
+            "sync": false,
+            "user": false,
+            "value": undefined,
+            "vm": [Circular],
+          },
+        ],
+        "accountValue": "",
+        "clickSendBtn": [Function],
+        "passwordValue": "",
+      },
+      "_self": [Circular],
+      "_staticTrees": null,
+      "_uid": 0,
+      "_vnode": [Circular],
+      "_watcher": Watcher {
+        "active": true,
+        "cb": [Function],
+        "deep": false,
+        "depIds": Set {
+          6,
+          7,
+          2,
+        },
+        "deps": Array [
+          Dep {
+            "id": 6,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 7,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+          Dep {
+            "id": 2,
+            "subs": Array [
+              [Circular],
+            ],
+          },
+        ],
+        "dirty": false,
+        "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+        "getter": [Function],
+        "id": 2,
+        "lazy": false,
+        "newDepIds": Set {},
+        "newDeps": Array [],
+        "sync": false,
+        "user": false,
+        "value": undefined,
+        "vm": [Circular],
+      },
+      "_watchers": Array [
+        Watcher {
+          "active": true,
+          "cb": [Function],
+          "deep": false,
+          "depIds": Set {
+            4,
+            3,
+          },
+          "deps": Array [
+            Dep {
+              "id": 4,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+            Dep {
+              "id": 3,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+          ],
+          "dirty": false,
+          "expression": "autoFakeAccount",
+          "getter": [Function],
+          "id": 1,
+          "lazy": false,
+          "newDepIds": Set {},
+          "newDeps": Array [],
+          "sync": false,
+          "user": true,
+          "value": Object {},
+          "vm": [Circular],
+        },
+        Watcher {
+          "active": true,
+          "cb": [Function],
+          "deep": false,
+          "depIds": Set {
+            6,
+            7,
+            2,
+          },
+          "deps": Array [
+            Dep {
+              "id": 6,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+            Dep {
+              "id": 7,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+            Dep {
+              "id": 2,
+              "subs": Array [
+                [Circular],
+              ],
+            },
+          ],
+          "dirty": false,
+          "expression": "function () {
+      vm._update(vm._render(), hydrating);
+    }",
+          "getter": [Function],
+          "id": 2,
+          "lazy": false,
+          "newDepIds": Set {},
+          "newDeps": Array [],
+          "sync": false,
+          "user": false,
+          "value": undefined,
+          "vm": [Circular],
+        },
+      ],
+      "accountValue": "",
+      "clickSendBtn": [Function],
+      "passwordValue": "",
+    },
+    "data": Object {
+      "attrs": Object {
+        "id": "app",
+      },
+    },
+    "elm": <div
+      id="app"
+    >
+      <div
+        class="row"
+      >
+        <label>
+          帳號：
+        </label>
+        <input
+          id="input-account"
+          placeholder="請輸入假信箱..."
+          type="text"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <label>
+          密碼：
+        </label>
+        <input
+          id="input-password"
+          placeholder="請輸入假密碼..."
+          type="password"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <button
+          id="button-send"
+        >
+          按鈕
+        </button>
+      </div>
+    </div>,
+    "fnContext": undefined,
+    "fnOptions": undefined,
+    "fnScopeId": undefined,
+    "isAsyncPlaceholder": false,
+    "isCloned": false,
+    "isComment": false,
+    "isOnce": false,
+    "isRootInsert": true,
+    "isStatic": false,
+    "key": undefined,
+    "ns": undefined,
+    "parent": undefined,
+    "raw": false,
+    "tag": "div",
+    "text": undefined,
+  },
+}
+`;
